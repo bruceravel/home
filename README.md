@@ -16,12 +16,14 @@ beamline at the
 [This link](https://github.com/bruceravel/home/blob/master/mythology.md)
 explains my fascination with Greek mythology.
 
-| *Post*     | Building 535, Brookhaven National Laboratory, Upton NY 11973 USA                         |
+|    |    |
+| -- | -- |
+| *Post*     | Building 535, Brookhaven National Laboratory, Upton NY 11973 USA |
 | *Shipping* | Bruce Ravel/X23A2, NSLS Building 725, Brookhaven National Laboratory, Upton NY 11973 USA |
-| *Email*    | bravel AT bnl DOT gov                                                                    |
+| *Email*    | bravel AT bnl DOT gov |
 | *CV*       | [My CV, as  PDF file](https://s3.amazonaws.com/BruceRavelCV/cv.pdf)|
-| *Demeter*  | http://bruceravel.github.io/demeter/                                                     |
-| *GitHub*   | https://github.com/bruceravel                                                            |
+| *Demeter*  | http://bruceravel.github.io/demeter/ |
+| *GitHub*   | https://github.com/bruceravel |
 
 I participate only to a limited extent in modern "social media". I
 silently ignore contact requests involving Facebook, LinkedIn, and
