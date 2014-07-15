@@ -38,7 +38,7 @@ the two of us in 1978.
 Muñeco, fortunately, was a much smarter dog than Zeus. (It's hard to
 imagine how he couldn't be!) Sadly, Muñeco had a character flaw. He
 was a car chaser. One day, the gardener found him on the side of the
-rode up the hill from our house. A passing car had taken a swipe at
+road up the hill from our house. A passing car had taken a swipe at
 him.
 
 
