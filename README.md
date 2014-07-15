@@ -16,8 +16,8 @@ beamline at the
 [This link](https://github.com/bruceravel/home/blob/master/mythology.md)
 explains my fascination with Greek mythology.
 
-|    |    |
-| -- | -- |
+| contact | info |
+| ------- | ---- |
 | *Post*     | Building 535, Brookhaven National Laboratory, Upton NY 11973 USA |
 | *Shipping* | Bruce Ravel/X23A2, NSLS Building 725, Brookhaven National Laboratory, Upton NY 11973 USA |
 | *Email*    | bravel AT bnl DOT gov |
