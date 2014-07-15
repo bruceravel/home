@@ -1,8 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/bkg.png") 0 0;
-  color: #eaeaea;
+  background: #1a1a1a;
+  /* background: #2D3333; */
+  /* color: #eaeaea; */
+  color: #ffffff;
   font: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -12,7 +14,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 750px;
   margin: 0 auto;
 }
 
@@ -50,9 +52,9 @@ header h1 {
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  /* text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), */
+  /*              0 0 5px rgba(181, 232, 83, 0.1), */
+  /*              0 0 10px rgba(181, 232, 83, 0.1); */
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
@@ -90,10 +92,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  /* text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), */
+  /*              0 0 5px rgba(181, 232, 83, 0.1), */
+  /*              0 0 10px rgba(181, 232, 83, 0.1); */
+  margin-top: 4px;
 }
+
 
 #main_content h1 {
   font-size: 30px;
@@ -166,16 +170,19 @@ pre {
 table {
   width: 100%;
   margin: 0 0 20px 0;
+  border-top: 2px double #b5e853;
+  border-bottom: 2px double #b5e853;
 }
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dotted #b5e853;
   padding: 5px 10px;
 }
 
 td {
   padding: 5px 10px;
+  vertical-align: top;
 }
 
 hr {
@@ -228,7 +235,9 @@ hr {
 
 a {
   color: #63c0f5;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  /* color: #FF4C4C; */
+  /* text-shadow: 0 0 5px rgba(104, 182, 255, 0.5); */
+  text-decoration: none;
 }
 
 /* Clearfix */
