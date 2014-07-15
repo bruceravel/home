@@ -22,5 +22,10 @@ most other such websites.
 
 ** Links, links, links
 
+ * [[http://xafs.org/Community/X23A2][Beamline X23A2]]
+ * [[http://bruceravel.github.io/demeter/][Demeter: XAS Data Analysis and Processing]]
+ * [[http://bruceravel.github.io/XAS-Education/][XAS Education materials]]
+ * [[https://s3.amazonaws.com/BruceRavelCV/bruce_thesis.pdf][My doctoral dissertation]]
+ * [[file:ConkyNslsMonitor.md][A desktop monitor for NSLS]]
  * [[file:MemoriesOfJoel.md][A Few Memories of My Friend Joel Hathhorne]]
  

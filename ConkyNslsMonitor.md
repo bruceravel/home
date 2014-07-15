@@ -7,7 +7,7 @@ applet" variety to display the status of the NSLS ring in a manner
 that is always present and always visible on my desktop.
 
 
-== Conky ==
+## Conky
 
 The solution I came up with uses
 [Conky](http://conky.sourceforge.net/), a lightweight system monitor
@@ -17,7 +17,7 @@ is easy to configure and easy to extend.  Building NSLS monitoring
 tools required a few lines of perl and some simple manipulations of
 the Conky configuration file.
 
-== Components ==
+## Components
 
 The NSLS monitoring components make use of resources available at
 [the NSLS machine status and history](http://www.nsls.bnl.gov/facility/machine/)
@@ -27,7 +27,7 @@ package for web programming.  Each script ends by printing a short
 message to standard output.  It is this message that gets displayed in
 Conky.
 
-=== Beam available monitor ===
+### Beam available monitor
 
 This monitor reads one of the
 ["device reading"](http://status.nsls.bnl.gov/cgi-bin/readdev.pl)
@@ -45,7 +45,7 @@ my $available = sprintf("%d", $xbeamavail);
 ($available) ? print 'yes' : print 'no';
 ```
 
-=== Ring current monitor ===
+### Ring current monitor
 
 This monitor reads another of the
 ["device reading"](http://status.nsls.bnl.gov/cgi-bin/readdev.pl)
@@ -56,14 +56,13 @@ channels, this one with the amount of current in the ring.
 use strict;
 use warnings;
 use LWP::Simple;
-```
 
 my $xrcurr = get 'http://status.nsls.bnl.gov/Status/Readback/xrcurr';
 my $current = (split(" ", $xrcurr))[0];
 print $current;
-}}}
+```
 
-=== Shutter monitor ===
+### Shutter monitor
 
 This monitor probes whether the X23A2 safety shutter is open or
 closed.  This is a bit silly.  There is no direct way of determining
