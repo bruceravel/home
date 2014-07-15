@@ -10,8 +10,8 @@ X23A2]], an XAFS beamline at the [[http://www.bnl.gov/ps/][National Synchrotron 
 
 | *Post*     | Building 535, Brookhaven National Laboratory, Upton NY 11973 USA                         |
 | *Shipping* | Bruce Ravel/X23A2, NSLS Building 725, Brookhaven National Laboratory, Upton NY 11973 USA |
-| *Email*    | bravel AT bnl DOT gov>                                                                   |
-| *CV*       | https://s3.amazonaws.com/BruceRavelCV/cv.pdf                                             |
+| *Email*    | bravel AT bnl DOT gov                                                                    |
+| *CV*       | [[https://s3.amazonaws.com/BruceRavelCV/cv.pdf][My CV, as  PDF file]]                                                                      |
 | *Demeter*  | http://bruceravel.github.io/demeter/                                                     |
 | *GitHub*   | https://github.com/bruceravel                                                            |
 
