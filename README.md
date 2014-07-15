@@ -18,19 +18,19 @@ explains my fascination with Greek mythology.
 
 | contact | info |
 | ------- | ---- |
-| *Post*     | Building 535, Brookhaven National Laboratory, Upton NY 11973 USA |
-| *Shipping* | Bruce Ravel/X23A2, NSLS Building 725, Brookhaven National Laboratory, Upton NY 11973 USA |
-| *Email*    | bravel AT bnl DOT gov |
-| *CV*       | [My CV, as  PDF file](https://s3.amazonaws.com/BruceRavelCV/cv.pdf)|
-| *Demeter*  | http://bruceravel.github.io/demeter/ |
-| *GitHub*   | https://github.com/bruceravel |
+| **Post**     | Building 535, Brookhaven National Laboratory, Upton NY 11973 USA |
+| **Shipping** | Bruce Ravel/X23A2, NSLS Building 725, Brookhaven National Laboratory, Upton NY 11973 USA |
+| **Email**    | bravel AT bnl DOT gov |
+| **CV**       | [My CV, as  PDF file](https://s3.amazonaws.com/BruceRavelCV/cv.pdf)|
+| **Demeter**  | http://bruceravel.github.io/demeter/ |
+| **GitHub**   | https://github.com/bruceravel |
 
 I participate only to a limited extent in modern "social media". I
 silently ignore contact requests involving Facebook, LinkedIn, and
 most other such websites.
 
 
-** Links, links, links
+## Links, links, links
 
  * [Beamline X23A2](http://xafs.org/Community/X23A2)
  * [Demeter: XAS Data Analysis and Processing](http://bruceravel.github.io/demeter/)
