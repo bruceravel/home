@@ -1,6 +1,4 @@
-Bruce Ravel's Home Page
-=======================
-
+* Bruce Ravel's Home Page
 
 I am a physicist in the [[http://www.nist.gov/mml/mmsd/synchrotron-science/index.cfm][Synchrotron Science Group]] in the [[http://www.nist.gov/mml/mmsd/index.cfm][Materials
 Measurement Division]] of the [[http://www.nist.gov/mml/][Materials Measurement Laboratory]] at [[http://www.nist.gov/][The
@@ -17,3 +15,12 @@ X23A2]], an XAFS beamline at the [[http://www.bnl.gov/ps/][National Synchrotron 
 | *Demeter*  | http://bruceravel.github.io/demeter/                                                     |
 | *GitHub*   | https://github.com/bruceravel                                                            |
 
+I participate only to a limited extent in modern "social media". I
+silently ignore contact requests involving Facebook, LinkedIn, and
+most other such websites.
+
+
+** Links, links, links
+
+ * [[file:MemoriesOfJoel.md][A Few Memories of My Friend Joel Hathhorne]]
+ 
