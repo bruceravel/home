@@ -33,6 +33,7 @@ Google+, and most other such websites.
 
  * [Demeter: XAS Data Analysis and Processing](http://bruceravel.github.io/demeter/)
  * [XAS Education materials](http://bruceravel.github.io/XAS-Education/)
+ * [XAS Education presentations](https://speakerdeck.com/bruceravel)
  * [Synchrotron pop-up book](http://bruceravel.github.io/synchrotron_pop_up_book/)
  * [Feff 8.5 for EXAFS](https://github.com/xraypy/feff85exafs)
  * [HERFD with a bent Laue analyzer](https://github.com/bruceravel/BLA-XANES)
