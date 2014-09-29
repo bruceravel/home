@@ -12,6 +12,17 @@ body {
 
 /* General & 'Reset' Stuff */
 
+.photo {
+  max-width: 150px;
+  margin: 5px;
+  float: left;
+}
+
+.credits {
+    font-size: 8px;
+}
+
+
 .container {
   width: 90%;
   max-width: 750px;
