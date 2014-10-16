@@ -43,7 +43,7 @@ back and forth on the faces of the waves. I was getting blown off and
 tuckering myself out paddling back to the top. At the end of our stay
 at that wave train, I was a better surfer (Thanks Joel!). As we were
 paddling away, he explained to me that none of his class 5 paddling
-buddies like paddling the sky as it is a fairly easy river and since
+buddies like paddling the Sky as it is a fairly easy river and since
 they had all been on it countless times before. "I like the Sky," he
 told me, "it's fun."
 
@@ -62,7 +62,7 @@ made our way to the hardest and most dangerous rapid on the stretch --
 an ugly, hole-choked mess called Final Exam.
 
 Joel hit an eddy near the top and I pulled in behind him. He pointed
-out some of the features of the rapid and sketch out a line that he
+out some of the features of the rapid and sketched out a line that he
 intended us to take. The first move was a ski-jump over a rock lined
 ledge. The ledge was tall enough that we couldn't see the water for
 several yards downstream. Joel went first. As he approached the ledge,
