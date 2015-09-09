@@ -4,10 +4,90 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>BMM End Station</title>
-<!-- 2015-09-08 Tue 11:33 -->
+<!-- 2015-09-09 Wed 13:10 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Bruce Ravel" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
 <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/htmlize.css"/>
 <link rel="stylesheet" type="text/css" href="http://www.pirilampo.org/styles/readtheorg/css/readtheorg.css"/>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -71,7 +151,12 @@ for the JavaScript code in this tag.
 <li><a href="#sec-1">1. Main Objectives</a>
 <ul>
 <li><a href="#sec-1-1">1.1. Be window</a></li>
-<li><a href="#sec-1-2">1.2. Be window gantry</a></li>
+<li><a href="#sec-1-2">1.2. Be window gantry</a>
+<ul>
+<li><a href="#sec-1-2-1">1.2.1. Window assembly</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Connection to goniometer transport pipe</a></li>
+</ul>
+</li>
 <li><a href="#sec-1-3">1.3. BPM</a></li>
 <li><a href="#sec-1-4">1.4. Table</a></li>
 <li><a href="#sec-1-5">1.5. Rail system</a>
@@ -106,7 +191,8 @@ window.  This gantry should move vertically with the table to
 track the various beams.
 </li>
 
-<li>BPM follows Be window
+<li>BPM precedes the Be window as part of an assembly of
+slits + BPM + window.
 </li>
 
 <li>The main table is something like 2.5 m by 1.5 m and has 4 degrees
@@ -121,14 +207,10 @@ of freedom:
 </ul>
 </li>
 
-<li>Rail on table serves two purposes:
-<ul class="org-ul">
-<li>Fixed height supports for ion chambers (table pitch and vertical
-ensures ion chambers are in beam path)
-</li>
-<li>Support for transport pipe when goniometer is in use
-</li>
-</ul>
+<li>Rail on table supports fixed height ion chambers.  Setting the
+table in pitch and vertical ensures that the ion chambers are in
+beam path.  These supports will need to be engineered for the
+operating height table.
 </li>
 
 <li>Transport pipe for delivering beam to goniometer.
@@ -145,12 +227,6 @@ I am assuming that this is a thin window which is a bit bigger than
 the beam.  It gets positioned vertically into the beam (with a bit of
 wiggle room for adjusting the mirrors).
 </p>
-
-<p>
-An alternative would be to have a window enough to accommodate the
-full vertical range of the beam.  Presumably, this would have to be
-significantly thicker.
-</p>
 </div>
 </div>
 
@@ -166,15 +242,74 @@ The gantry must support a vacuum force in the negative beam direction
 Options:
 </p>
 <ul class="org-ul">
-<li>Gantry is mounted on the main table, as main table moves to meet
-the beam, the window moves with it.
+<li><del>Gantry is mounted on the main table, as main table moves to meet</del>
+   <del>the beam, the window moves with it.</del>
 </li>
-<li>Gantry sites on an independent table whose motion is coordinated
+<li>Gantry sits on an independent table whose motion is coordinated
 with the main table motion.
 </li>
 </ul>
+
+<p>
+After the meeting on 9 Sep., we agreed that the independent table
+option makes more sense.  This would be a table, independent of the
+XAFS table, which provides the support against the vacuum force on the
+window.
+</p>
+
+<p>
+There would be a single vertical actuator to raise and lower the
+window assembly.  This assembly would supported against the vacuum
+pressure on the window by curved rail system.  As the actuator raises
+and lowers the window assembly, the pitch of the assembly would be set
+by a curved track.  As the assembly is lowered, the track pitches the
+assembly downward such that components of the assembly are always
+perpendicular to the incoming beam.
+</p>
+
+
+<div class="figure">
+<p><img src="BMM/gantry.png" alt="gantry.png" />
+</p>
 </div>
 </div>
+
+<div id="outline-container-sec-1-2-1" class="outline-4">
+<h4 id="sec-1-2-1"><span class="section-number-4">1.2.1</span> Window assembly</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<p>
+The Be window, the nanoBPM, and a set of hutch slits would be bolted
+together and attached to the beam transport pipe by a bellows.  These
+three items would then be moved vertically to intercept the beam in
+each of the modes.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-1-2-2" class="outline-4">
+<h4 id="sec-1-2-2"><span class="section-number-4">1.2.2</span> Connection to goniometer transport pipe</h4>
+<div class="outline-text-4" id="text-1-2-2">
+<p>
+The assembly is terminated with a quick-connect flange for mating to
+the upstream end of the transport pipe.
+</p>
+
+<p>
+A pivoting yoke is mounted (bolts or magnets) to the table supporting
+the window assembly.  This yoke supports the upstream end of the
+transport pipe, but can be removed when not in use.
+</p>
+
+<p>
+The transport pipe joins the quick-connect flange by a bellows (thus
+allowing the pitch of the transport pipe to be adjusted when changing
+beamline modes).  The yoke must extend downstream, beyond the bellows,
+to support the pipe.
+</p>
+</div>
+</div>
+</div>
+
 
 <div id="outline-container-sec-1-3" class="outline-3">
 <h3 id="sec-1-3"><span class="section-number-3">1.3</span> BPM</h3>
@@ -200,6 +335,9 @@ See "market research" from <a href="https://github.com/bruceravel/X23A2_inventor
 </li>
 
 <li>Need to define margins for vertical, pitch, horizontal, and roll.
+The horizontal motion must be enough to lower a "typical" XAFS
+experiment out of the way to allow placement of the goniometer
+transport pipe.
 </li>
 
 <li>In many cases, table will not be level, so a rim will be needed
@@ -235,34 +373,19 @@ in place and adjust the height of the downstream support.
 <h4 id="sec-1-5-1"><span class="section-number-4">1.5.1</span> Downstream support</h4>
 <div class="outline-text-4" id="text-1-5-1">
 <p>
-Motorized jack to lift/lower the downstream end of the pipe.  This
-rotation is supported by a hinged upstream support and a bellows
-connecting to the entry window.
+The downstream support for the transport pipe should be mounted on the
+goniometer table.  This support can be fixed height,  thus
+guaranteeing that the transport pipe is always pointed at the
+goniometer eucentric.  
 </p>
 
 <p>
-How is the height of the jack set?  My suggestion is that a series of
-survey marks is placed on a nearby wall.  A survey target is placed on
-the transport pipe just above the jack.  A theodolite is set to the
-selected beam height.  Looking through the theodolite, use a hand-held
-controller to actuate the jack.
-</p>
-
-<p>
-Given the size of the transport pipe and the possibility for damage if
-the jack is driven incorrectly, this is a good candidate for this sort
-of non-automated solution.  That is, a person must be physically
-present to do the transport pipe height adjustment.
-</p>
-
-<p>
-The exit window should be a generous enough in height so that the
-mirrors can be tweaked without needing to readjust the jack height.
+This support must be hinged to allow the pipe to change pitch when
+moving between modes.
 </p>
 </div>
 </div>
 </div>
-
 
 
 <div id="outline-container-sec-1-6" class="outline-3">
@@ -272,23 +395,21 @@ mirrors can be tweaked without needing to readjust the jack height.
 <li>Pipe with fittings on top side for lifting by overhead hoist.
 </li>
 
-<li>Supported at one point on the table rail.  This support is hinged
-in the pitch direction to facilitate placement of transport pipe
-and adjustment of angle.
+<li>Supported at the upstream end by a hinged yoke mounted on the
+support for the window assembly gantry.
 </li>
 
-<li>Supported at downstream end by adjustable height pillar so pitch of
-transport pipe can be set appropriate to beam mode.  
+<li>Supported at downstream end by fixed height pillar with a hinged
+yoke and mounted on the goniometer table.
 </li>
 
 <li>Quick connect to upstream window flange via bellows.  (So, not UHV)
 </li>
 
-<li>Be or plastic window on downstream end.  Perhaps some kind of snout
-for bringing beam close to eucentric of goniometer.
+<li>Be or plastic window on downstream end.
 </li>
 
-<li>Pumping port.  Rough + turbo.
+<li>Pumping port.  Rough, maybe with turbo.
 </li>
 
 <li>Will need clear procedure for placement of pipe at a specific angle
@@ -329,6 +450,10 @@ The Pilatus 100K is quite cheap, but not for long.
 </p>
 
 <p>
+Talk to Jean about whether IBM might purchase this.
+</p>
+
+<p>
 Many, many uses:
 </p>
 <ul class="org-ul">
@@ -336,6 +461,8 @@ Many, many uses:
 path
 </li>
 <li>Area detector for goniometer
+</li>
+<li>Full-field XAFS
 </li>
 <li>Yoneda-EXAFS
 </li>
@@ -383,7 +510,7 @@ foil to be easily automated.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Bruce Ravel</p>
-<p class="date">Created: 2015-09-08 Tue 11:33</p>
+<p class="date">Created: 2015-09-09 Wed 13:10</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.4.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
