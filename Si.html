@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2015-11-06 Fri 09:13 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="viewport" content="width=device-width, initial-scale=1" />
+<title></title>
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Bruce Ravel" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="styles/readtheorg/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="styles/readtheorg/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="styles/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="styles/readtheorg/js/readtheorg.js"></script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgheadline2">1. Si K edge XAS measurements</a>
+<ul>
+<li><a href="#orgheadline1">1.1. Sample list</a></li>
+</ul>
+</li>
+<li><a href="#orgheadline8">2. Lab Book Transcription for February 2009 experiment</a>
+<ul>
+<li><a href="#orgheadline3">2.1. 19 February 2009</a></li>
+<li><a href="#orgheadline4">2.2. 20 February 2009</a></li>
+<li><a href="#orgheadline5">2.3. 21 February, 2009</a></li>
+<li><a href="#orgheadline6">2.4. 22 February 2009</a></li>
+<li><a href="#orgheadline7">2.5. 23 February, 2009</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgheadline2" class="outline-2">
+<h2 id="orgheadline2"><span class="section-number-2">1</span> Si K edge XAS measurements</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-orgheadline1" class="outline-3">
+<h3 id="orgheadline1"><span class="section-number-3">1.1</span> Sample list</h3>
+<div class="outline-text-3" id="text-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left"><b>formula</b></th>
+<th scope="col" class="org-left"><b>common name</b></th>
+<th scope="col" class="org-left"><b>Source</b></th>
+<th scope="col" class="org-left"><b>in stock?</b></th>
+<th scope="col" class="org-left"><b>Beamline</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Si powder<sup>1</sup></td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Alfa-Aeser Stock #44384 Lot #J06T047</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">SiO<sub>2</sub></td>
+<td class="org-left">silica</td>
+<td class="org-left">unknown</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">SiO<sub>2</sub></td>
+<td class="org-left">quartz</td>
+<td class="org-left">H-122838</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">SiO</td>
+<td class="org-left">silicon monoxide</td>
+<td class="org-left">Aldritch 262951-50G Batch #01422EJ</td>
+<td class="org-left">yes<sup>2</sup></td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">Si<sub>3</sub>N<sub>2</sub></td>
+<td class="org-left">silicon nitride</td>
+<td class="org-left">Alfa-Aeser Stock #14704 Lot #H14T015</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">FeSi</td>
+<td class="org-left">iron silicide</td>
+<td class="org-left">Alfa-Aeser Stock #14019 Lot #A15T045</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">SiC</td>
+<td class="org-left">silicon carbide</td>
+<td class="org-left">Alfa-Aeser Stock #43332 Lot #D03T026</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">Mg<sub>2</sub>SiO<sub>4</sub></td>
+<td class="org-left">Forsterite</td>
+<td class="org-left">unknown</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">Fe<sub>2</sub>SiO<sub>4</sub></td>
+<td class="org-left">Fayalite</td>
+<td class="org-left">Alfa-Aeser stock #44278</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">MgSiO<sub>3</sub></td>
+<td class="org-left">enstatite</td>
+<td class="org-left">Alfa-Aeser stock #42638 Lot #E15T035</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">MgSiO<sub>3</sub></td>
+<td class="org-left">enstatite (colorless)</td>
+<td class="org-left">H-132059</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">MgSiO<sub>3</sub></td>
+<td class="org-left">enstatite</td>
+<td class="org-left">Indarch meteorite<sup>3</sup></td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">(Mg,Fe)SiO<sub>3</sub></td>
+<td class="org-left">enstatite (black)</td>
+<td class="org-left">H-130424</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">See note 3</td>
+<td class="org-left">montmorillonite</td>
+<td class="org-left">H-142599</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">See note 4</td>
+<td class="org-left">nontronite</td>
+<td class="org-left">H-102634</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">(Mg,Fe)<sub>3</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub></td>
+<td class="org-left">antigorite/serpentine</td>
+<td class="org-left">H-126645</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">Mg<sub>3</sub>(Si<sub>2</sub>O<sub>5</sub>)(OH)<sub>4</sub></td>
+<td class="org-left">chrysotile/white asbestos</td>
+<td class="org-left">H-98898</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+
+<tr>
+<td class="org-left">(Mg,Fe)<sub>2</sub>SiO<sub>4</sub></td>
+<td class="org-left">forsterite/olivine</td>
+<td class="org-left">H-88333B</td>
+<td class="org-left">yes</td>
+<td class="org-left">X15b</td>
+</tr>
+</tbody>
+</table>
+
+<dl class="org-dl">
+<dt>Notes</dt><dd>1. partially oxidized
+
+<ol class="org-ol">
+<li><a href="http://dx.doi.org/10.1016/S0022-3093(96)00555-8">See this paper which doubts commercial SiO phase purity</a>, J. Non-Crystalline
+Solids <b>204</b>:2, (1996) 202-203</li>
+
+<li>See <a href="http://www.mindat.org/loc-20446.html">http://www.mindat.org/loc-20446.html</a> and
+<a href="http://www.meteoritestudies.com/protected_INDARCH.HTM">http://www.meteoritestudies.com/protected_INDARCH.HTM</a> and <a href="http://dx.doi.org/10.1038/283060a0">this
+Nature article</a>.  Googling for <i>indarch</i> returns lots of hits.</li>
+
+<li>Nominal formula for montmorillonite:
+(Na,Ca)<sub>0.33</sub>(Al,Mg)<sub>2</sub>(Si<sub>4</sub>O<sub>10</sub>)(OH)<sub>2</sub>.nH<sub>2</sub>O</li>
+
+<li>Nominal formula for nontronite:
+Ca<sub>0.5</sub>(Si<sub>7</sub>Al<sub>0.8</sub>Fe<sub>0.2</sub>)(Fe<sub>3.5</sub>Al<sub>0.4</sub>Mg<sub>0.1</sub>)O<sub>20</sub>(OH)<sub>4</sub></li>
+</ol></dd>
+
+<dt>Other minerals</dt><dd>* Andalusite, kyanite, and sillimanite are
+naturally occurring aluminosilicate minerals that have the
+composition Al<sub>2</sub>SiO<sub>5</sub>.
+
+<ul class="org-ul">
+<li>Garnets are nesosilicates having the general formula
+X<sub>3</sub>Y<sub>2</sub>(SiO<sub>4</sub>)<sub>3</sub>. The X site is usually occupied by
+divalent cations (Ca<sup>2+</sup>, Mg<sup>2+</sup>, Fe<sup>2+</sup>) and the Y site by
+trivalent cations (Al<sup>3+</sup>, Fe<sup>3+</sup>, Cr<sup>3+</sup>) in an
+octahedral/tetrahedral framework with [SiO<sub>4</sub>]<sup>4−</sup> occupying the
+tetrahedra.</li>
+</ul></dd>
+</dl>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgheadline8" class="outline-2">
+<h2 id="orgheadline8"><span class="section-number-2">2</span> Lab Book Transcription for February 2009 experiment</h2>
+<div class="outline-text-2" id="text-2">
+<dl class="org-dl">
+<dt>PASS form</dt><dd>13330</dd>
+
+<dt>SAF</dt><dd>9554</dd>
+</dl>
+</div>
+
+<div id="outline-container-orgheadline3" class="outline-3">
+<h3 id="orgheadline3"><span class="section-number-3">2.1</span> 19 February 2009</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Mount a glass slide to test the beamline configuration
+</p>
+
+<ul class="org-ul">
+<li>testsio2.001 - .002 (get calibration)</li>
+</ul>
+
+<p>
+Time: 1551
+</p>
+
+<ul class="org-ul">
+<li>glass.001 (test calibration)</li>
+</ul>
+
+<p>
+Sample holder:
+</p>
+
+<pre class="example">
++------------------+
+|                  |
+|      +--------+  |
+|      |        |  |
+|      | Nothing|  |
+|      |        |  |
+|      | Si3N4  |  |   from Alfa-Aeser
+|      |        |  |
+|      | FeSi   |  |   from Alfa-Aeser
+|      |        |  |
+|      | SiC    |  |   from Alfa-Aeser
+|      |        |  |
+|      | C Tape |  |   blank carbon tape to check for Si content
+|      |        |  |
+|      +--------+  |
+|                  |
++------------------+
+</pre>
+
+<p>
+Time: 1820
+</p>
+
+<ul class="org-ul">
+<li>si3n4.001</li>
+
+<li>si3n4.002 aborted</li>
+
+<li>si3n4.003 longer postedge</li>
+</ul>
+
+<p>
+New scan parameters:
+</p>
+
+<dl class="org-dl">
+<dt>energy ranges</dt><dd>1790, 1830, 1850, 1900, 1980</dd>
+
+<dt>step sizes</dt><dd>0.5, 0.25, 1, 2</dd>
+</dl>
+
+<p>
+After fill move to a new spot on Si<sub>3</sub>N<sub>4</sub>.
+</p>
+
+<ul class="org-ul">
+<li>si3n4.004 - .007</li>
+
+<li>sife.001 test edge</li>
+
+<li>sife.002 +</li>
+
+<li>sic,001 edge scan</li>
+</ul>
+
+<p>
+Time: 2240
+</p>
+
+<ul class="org-ul">
+<li>sic.002 forgot to increase the number of scans! D'oh!</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgheadline4" class="outline-3">
+<h3 id="orgheadline4"><span class="section-number-3">2.2</span> 20 February 2009</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Time: 0800
+</p>
+
+<ul class="org-ul">
+<li>sic.003 - .006</li>
+
+<li>ctape.001</li>
+</ul>
+
+<pre class="example">
++--------------------+
+|                    |
+|      +----------+  |
+|      |          |  |
+|      | SiO2     |  |
+|      |          |  |
+|      | FeSi     |  |   from Alfa-Aeser
+|      |          |  |
+|      | MgSiO3   |  | 
+|      |          |  |
+|      | Mg2SiO4  |  |
+|      |          |  |
+|      | Fe2SiO4  |  |   from Alfa-Aeser
+|      |          |  |
+|      +----------+  |
+|                    |
++--------------------+
+</pre>
+
+<ul class="org-ul">
+<li>simg2o4.001 - .003</li>
+
+<li>simg2o4.004 aborted for Paul to optimize beamline</li>
+</ul>
+
+<p>
+Paul realigned beamline, increasing flux by at least an order of
+magnitude.
+</p>
+
+<p>
+There is a small energy shift in the data of -0.415 eV, found by
+comparing simg2o4.003 and .006
+</p>
+
+<p>
+<img src="http://xafs.org/moin_static185/xafs/img/alert.png" alt="alert.png" />
+<img src="http://xafs.org/moin_static185/xafs/img/alert.png" alt="alert.png" />
+<img src="http://xafs.org/moin_static185/xafs/img/alert.png" alt="alert.png" /> All data from
+simg2o4.006 to the end of the experiment is shifted by -0.415 volts
+relative to earlier data
+<img src="http://xafs.org/moin_static185/xafs/img/alert.png" alt="alert.png" />
+<img src="http://xafs.org/moin_static185/xafs/img/alert.png" alt="alert.png" />
+<img src="http://xafs.org/moin_static185/xafs/img/alert.png" alt="alert.png" />
+</p>
+
+<p>
+Time: 1520
+</p>
+
+<ul class="org-ul">
+<li>simg2o4.006 after realignment</li>
+
+<li>simg2o4.007 aborted</li>
+</ul>
+
+<p>
+Time: 1640
+</p>
+
+<ul class="org-ul">
+<li>sio2.001 - .004 OK</li>
+
+<li>sio2.005 - .008 during fill</li>
+
+<li>sio2.009 - .010 OK</li>
+
+<li>sio2.011 aborted</li>
+</ul>
+
+<p>
+Time: 2100
+</p>
+
+<ul class="org-ul">
+<li>sife.001 - .005</li>
+</ul>
+
+<p>
+Time: 2345
+</p>
+
+<ul class="org-ul">
+<li>sife2o4.001 - .010, .017</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgheadline5" class="outline-3">
+<h3 id="orgheadline5"><span class="section-number-3">2.3</span> 21 February, 2009</h3>
+<div class="outline-text-3" id="text-2-3">
+<pre class="example">
++--------------------+
+|                    |
+|      +----------+  |
+|      |          |  |
+|      | Enstatite|  |   from Alfa-Aeser (sienaa)
+|      |          |  |
+|      | Enstatite|  |   Fe-free 132059 (sienfef)
+|      |          |  |
+|      | Enstatite|  |   Chondrite (Indarch meteorite) (sienchon)
+|      |          |  |
+|      | Enstatite|  |   "Paulite" 130424 (sienplt)
+|      |          |  |
+|      | Quartz   |  |   Hot Springs AK, Garland 6
+|      |          |  |
+|      +----------+  |
+|                    |
++--------------------+
+</pre>
+
+<ul class="org-ul">
+<li>sienaa.001 - 004 (.005 aborted)</li>
+
+<li>sienfef.001 - .004 (.005, .006 aborted)</li>
+
+<li>sienplt.001 - .005</li>
+</ul>
+
+<p>
+Time: 1800
+</p>
+
+<ul class="org-ul">
+<li>siquartz.001 - .010 (of these, only .001, .007, .008, .009 are good)</li>
+</ul>
+
+<p>
+Time: 2200
+</p>
+
+<ul class="org-ul">
+<li>sienchon.001 - .014 (.015 + during morning fill)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgheadline6" class="outline-3">
+<h3 id="orgheadline6"><span class="section-number-3">2.4</span> 22 February 2009</h3>
+<div class="outline-text-3" id="text-2-4">
+<pre class="example">
++--------------------+
+|                    |
+|      +----------+  |
+|      |          |  |
+|      | Si       |  |   very fine powder
+|      |          |  |
+|      | Quartz   |  |   SiO (silicon monoxide)
+|      |          |  |
+|      +----------+  |
+|                    |
++--------------------+
+</pre>
+
+<p>
+Time: 0925
+</p>
+
+<ul class="org-ul">
+<li>si.001 - .004 (This is somewhat oxidized)</li>
+</ul>
+
+<p>
+Time 1210
+</p>
+
+<ul class="org-ul">
+<li>sio.001 - .004</li>
+</ul>
+
+<pre class="example">
++----------------------+
+|                      |
+|      +------------+  |
+|      |            |  |
+|      | Montmor.   |  |   Montmorillonite 142599 (simont)
+|      |            |  |
+|      | Nontron.   |  |   Nontronite 102634 (sinon)
+|      |            |  |
+|      | Antogorite |  |   126645 (sianti)
+|      |            |  |
+|      | Crysotile  |  |   98898 (sicrys)
+|      |            |  |
+|      | Forsterite |  |   olivine from Rice Gila Co. AZ
+|      |            |  |
+|      | Quartz     |  |   Hot Springs AK, Garland 6 (again, slightly finer powder)
+|      |            |  |
+|      +------------+  |
+|                      |
++----------------------+
+</pre>
+
+<p>
+Time: 1525
+</p>
+
+<ul class="org-ul">
+<li>simont.001 - .004</li>
+
+<li>sinon.001</li>
+
+<li>sinon.002 - .005 during fill</li>
+
+<li>sinon.006 - .008</li>
+</ul>
+
+<p>
+Time: 1050
+</p>
+
+<ul class="org-ul">
+<li>sianti.001 - .004</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgheadline7" class="outline-3">
+<h3 id="orgheadline7"><span class="section-number-3">2.5</span> 23 February, 2009</h3>
+<div class="outline-text-3" id="text-2-5">
+<ul class="org-ul">
+<li>sicsys.001 - .004 (note that "sicsys" is the crysotile sample)</li>
+
+<li>sifoist.001 - .019 (note that "sifoist" is Forsterite)</li>
+
+<li>siq2.001 - .004 (I tried to grind this sample more finely than the
+first one. I succeeded, but only a bit more so)</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Bruce Ravel</p>
+<p class="date">Created: 2015-11-06 Fri 09:13</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
