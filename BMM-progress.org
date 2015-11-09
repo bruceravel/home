@@ -1,0 +1,11 @@
+#+STARTUP: showall
+#+SETUPFILE: theme-readtheorg-local.setup
+
+* Date: 9 November, 2015
+
+Construction begins on BMM.  Hutch panels have been delivered, hutch
+boundaries are marked in ink on the floors, and door slots have been
+ground into the concrete.
+
+| Construction begins                                                                | Slot for 6BM-B door                                                                | Slot for 6BM-A door                                                                | Parts for the 6BM hutches                                                          | 6BM-A wall panels                                                                  | 6BM-A roof panels                                                                  |
+| [[file:./BMM/pix/2015-11-09/10.45.04.jpg][file:./BMM/pix/2015-11-09/sm_10.45.04.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.19.jpg][file:./BMM/pix/2015-11-09/sm_10.45.19.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.34.jpg][file:./BMM/pix/2015-11-09/sm_10.45.34.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.40.jpg][file:./BMM/pix/2015-11-09/sm_10.45.40.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.50.jpg][file:./BMM/pix/2015-11-09/sm_10.45.50.jpg]] | [[file:./BMM/pix/2015-11-09/10.46.08.jpg][file:./BMM/pix/2015-11-09/sm_10.46.08.jpg]] |
