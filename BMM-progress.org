@@ -1,6 +1,15 @@
 #+STARTUP: showall
 #+SETUPFILE: theme-readtheorg-local.setup
 
+
+* Date: 10 November, 2015
+
+The staircase to the 6BM-A roof was assembled yesterday!
+
+     #+CAPTION: 6BM-A staircase
+     [[file:./BMM/pix/2015-11-10/08.31.11.jpg][file:./BMM/pix/2015-11-10/sm_08.31.11.jpg]]
+
+
 * Date: 9 November, 2015
 
 Construction begins on BMM.  Hutch panels have been delivered, hutch
