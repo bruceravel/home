@@ -2,7 +2,7 @@
 #+SETUPFILE: theme-readtheorg-local.setup
 
 
-* Latest image from construction camera
+* Latest webcam image
 
      #+CAPTION: Latest image from the BMM hutch construction webcam!
      [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest.jpg]]
@@ -10,7 +10,7 @@
 
 * Date: 10 November, 2015
 
-The staircase to the 6BM-A roof was assembled yesterday!
+Hints of things to come: This is the staircase to the 4BM-B roof, assembled yesterday.
 
      #+CAPTION: 6BM-A staircase
      [[file:./BMM/pix/2015-11-10/08.31.11.jpg][file:./BMM/pix/2015-11-10/sm_08.31.11.jpg]]
@@ -22,5 +22,5 @@ Construction begins on BMM.  Hutch panels have been delivered, hutch
 boundaries are marked in ink on the floors, and door slots have been
 ground into the concrete.
 
-| Construction begins                                                                | Slot for 6BM-B door                                                                | Slot for 6BM-A door                                                                | Parts for the 6BM hutches                                                          | 6BM-A wall panels                                                                  | 6BM-A roof panels                                                                  |
+| Construction begins                       | Slot for 6BM-B door                       | Slot for 6BM-A door                       | Parts for the 6BM hutches                 | 6BM-A wall panels                         | 4BM-B roof panels (ours will be similar)  |
 | [[file:./BMM/pix/2015-11-09/10.45.04.jpg][file:./BMM/pix/2015-11-09/sm_10.45.04.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.19.jpg][file:./BMM/pix/2015-11-09/sm_10.45.19.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.34.jpg][file:./BMM/pix/2015-11-09/sm_10.45.34.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.40.jpg][file:./BMM/pix/2015-11-09/sm_10.45.40.jpg]] | [[file:./BMM/pix/2015-11-09/10.45.50.jpg][file:./BMM/pix/2015-11-09/sm_10.45.50.jpg]] | [[file:./BMM/pix/2015-11-09/10.46.08.jpg][file:./BMM/pix/2015-11-09/sm_10.46.08.jpg]] |
