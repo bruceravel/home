@@ -4,8 +4,8 @@
 
 * Latest webcam image
 
-     #+CAPTION: Latest image from the BMM hutch construction webcam!
-     [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest.jpg]]
+| A hutch                                                    | B hutch                                                    |
+| [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-A.jpg]] | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-B.jpg]] |
 
 
 * Date: 10 November, 2015
