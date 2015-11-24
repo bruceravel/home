@@ -4,8 +4,8 @@
 
 * Latest webcam image
 
-| A hutch                                                    | B hutch                                                    |
-| [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-A.jpg]] | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-B.jpg]] |
+| B hutch                                                    | A hutch                                                    |
+| [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-B.jpg]] | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-A.jpg]] |
 
 
 * Date: 10 November, 2015
