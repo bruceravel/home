@@ -22,5 +22,8 @@ foreach my $f (@list) {
   move($f, File::Spec->catfile($date, $target));
 };
 
+chdir $date;
+system 'for f in `ls`; do convert -geometry 10% $f sm_$f; done';
+
 ## cd into $date directory and do:
 ## for f in `ls`; do convert -geometry 10% $f sm_$f; done
