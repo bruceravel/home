@@ -12,7 +12,7 @@ Latest [[https://s3.amazonaws.com/bruce-ravel-site/BMM_hutches.avi][hutch constr
 
 * Date: 2 December, 2015
 
-     #+CAPTION: 6BM-A staircasem under construction
+     #+CAPTION: 6BM-A staircase, under construction
      [[file:./BMM/pix/2015-12-02/10.03.54.jpg][file:./BMM/pix/2015-12-02/sm_10.03.54.jpg]]
 
 
