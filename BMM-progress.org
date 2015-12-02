@@ -8,8 +8,20 @@
 | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-B.jpg]] | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-A.jpg]] |
 
 
-* Date: 23 November, 2015
+Latest [[https://s3.amazonaws.com/bruce-ravel-site/BMM_hutches.avi][hutch construction video]] (avi format, 5 MB).  Included snapshots from Nov 30 through Dec 2.
 
+* Date: 2 December, 2015
+
+     #+CAPTION: 6BM-A staircasem under construction
+     [[file:./BMM/pix/2015-12-02/10.03.54.jpg][file:./BMM/pix/2015-12-02/sm_10.03.54.jpg]]
+
+
+* Date: 1 December, 2015
+
+| Hutch A from downstream                   | Pieces of the hutch A door                | Securing the wall panels to the floor     | Wall assembly                             | A hutch from 5ID-D roof                   | Lifting ceiling panels                    | Lifting ceiling panels                    |
+| [[file:./BMM/pix/2015-12-01/10.16.10.jpg][file:./BMM/pix/2015-12-01/sm_10.16.10.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.40.jpg][file:./BMM/pix/2015-12-01/sm_10.16.40.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.50.jpg][file:./BMM/pix/2015-12-01/sm_10.16.50.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.57.jpg][file:./BMM/pix/2015-12-01/sm_10.16.57.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.19.jpg][file:./BMM/pix/2015-12-01/sm_10.18.19.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.32.jpg][file:./BMM/pix/2015-12-01/sm_10.18.32.jpg]] | [[file:./BMM/pix/2015-12-01/10.21.52.jpg][file:./BMM/pix/2015-12-01/sm_10.21.52.jpg]] |
+
+* Date: 23 November, 2015
 More of our panels have arrived
 
 | Wall pieces                               | Railing pieces                            |
@@ -19,7 +31,7 @@ More of our panels have arrived
 
 Hints of things to come: This is the staircase to the 4BM-B roof, assembled yesterday.
 
-     #+CAPTION: 6BM-A staircase
+     #+CAPTION: 4BM-A staircase
      [[file:./BMM/pix/2015-11-10/08.31.11.jpg][file:./BMM/pix/2015-11-10/sm_08.31.11.jpg]]
 
 
