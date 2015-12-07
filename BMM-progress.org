@@ -8,11 +8,11 @@
 | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-B.jpg]] | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-A.jpg]] |
 
 
-Latest [[https://s3.amazonaws.com/bruce-ravel-site/BMM_hutches.avi][hutch construction video]] (avi format, 7.9 MB).  This includes
-snapshots from Nov 30 through Dec 4 and runs about 1 minutes 45
-seconds.  The soundtrack is /Yakety Axe/, a Chet Atkins arrangement of
-Yakety Sax (also known as the Benny Hill theme) for steel guitar.
-[[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
+Latest [[https://s3.amazonaws.com/bruce-ravel-site/BMM_hutches.avi][hutch construction video]] (avi format, 11.2 MB).  This includes
+snapshots from Nov 30 through Dec 7 and runs about 1 minutes 53
+seconds.  The soundtrack is a loop of /Yakety Axe/, a Chet Atkins
+arrangement for steel guitar of Yakety Sax (which many know as the
+Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
 * Date: 2 December, 2015
 
