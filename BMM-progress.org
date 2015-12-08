@@ -14,8 +14,45 @@ seconds.  The soundtrack is a loop of /Yakety Axe/, a Chet Atkins
 arrangement for steel guitar of Yakety Sax (which many know as the
 Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
-* Date: 2 December, 2015
+* Date: 8 December, 2015
 
+** Views from the roof of 5ID-D
+
+| View from the roof of 5ID-D               | Staircase + 6BM-A door component          |
+| [[file:./BMM/pix/2015-12-08/08.27.47.jpg][file:./BMM/pix/2015-12-08/sm_08.27.47.jpg]] | [[file:./BMM/pix/2015-12-08/08.28.05.jpg][file:./BMM/pix/2015-12-08/sm_08.28.05.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Floor level views of the hutches
+
+| 6BM-B doorway                             | 6BM-A, view from dowstream                | 6BM-A, view from the side                 | Detail of 6BM-B door                      |
+| [[file:./BMM/pix/2015-12-08/10.11.57.jpg][file:./BMM/pix/2015-12-08/sm_10.11.57.jpg]] | [[file:./BMM/pix/2015-12-08/10.12.15.jpg][file:./BMM/pix/2015-12-08/sm_10.12.15.jpg]] | [[file:./BMM/pix/2015-12-08/10.12.48.jpg][file:./BMM/pix/2015-12-08/sm_10.12.48.jpg]] | [[file:./BMM/pix/2015-12-08/10.14.02.jpg][file:./BMM/pix/2015-12-08/sm_10.14.02.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Branding is key!
+
+| Dan says "Let's brand this thing!"        | Branding accomplished!                    |
+| [[file:./BMM/pix/2015-12-08/10.13.32.jpg][file:./BMM/pix/2015-12-08/sm_10.13.32.jpg]] | [[file:./BMM/pix/2015-12-08/10.15.22.jpg][file:./BMM/pix/2015-12-08/sm_10.15.22.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Views from the mezzanine
+
+| Looking down the length of 6BM            | 6BM-A roof                                | 6BM-B roof                                | View of 6BM-A from the roof of 7ID-A      | 6BM-B labyrinths                          | 6BM-B air handling                        | Looking up the length of 6BM from 7ID-A   |
+| [[file:./BMM/pix/2015-12-08/10.22.17.jpg][file:./BMM/pix/2015-12-08/sm_10.22.17.jpg]] | [[file:./BMM/pix/2015-12-08/10.22.34.jpg][file:./BMM/pix/2015-12-08/sm_10.22.34.jpg]] | [[file:./BMM/pix/2015-12-08/10.23.06.jpg][file:./BMM/pix/2015-12-08/sm_10.23.06.jpg]] | [[file:./BMM/pix/2015-12-08/10.23.50.jpg][file:./BMM/pix/2015-12-08/sm_10.23.50.jpg]]  | [[file:./BMM/pix/2015-12-08/10.24.00.jpg][file:./BMM/pix/2015-12-08/sm_10.24.00.jpg]] | [[file:./BMM/pix/2015-12-08/10.24.07.jpg][file:./BMM/pix/2015-12-08/sm_10.24.07.jpg]] | [[file:./BMM/pix/2015-12-08/10.24.26.jpg][file:./BMM/pix/2015-12-08/sm_10.24.26.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+* Date: 2 December, 2015
      #+CAPTION: 6BM-A staircase, under construction
      [[file:./BMM/pix/2015-12-02/10.03.54.jpg][file:./BMM/pix/2015-12-02/sm_10.03.54.jpg]]
 
@@ -25,11 +62,19 @@ Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This mus
 | Hutch A from downstream                   | Pieces of the hutch A door                | Securing the wall panels to the floor     | Wall assembly                             | A hutch from 5ID-D roof                   | Lifting ceiling panels                    | Lifting ceiling panels                    |
 | [[file:./BMM/pix/2015-12-01/10.16.10.jpg][file:./BMM/pix/2015-12-01/sm_10.16.10.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.40.jpg][file:./BMM/pix/2015-12-01/sm_10.16.40.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.50.jpg][file:./BMM/pix/2015-12-01/sm_10.16.50.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.57.jpg][file:./BMM/pix/2015-12-01/sm_10.16.57.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.19.jpg][file:./BMM/pix/2015-12-01/sm_10.18.19.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.32.jpg][file:./BMM/pix/2015-12-01/sm_10.18.32.jpg]] | [[file:./BMM/pix/2015-12-01/10.21.52.jpg][file:./BMM/pix/2015-12-01/sm_10.21.52.jpg]] |
 
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 * Date: 23 November, 2015
 More of our panels have arrived
 
 | Wall pieces                               | Railing pieces                            |
 | [[file:./BMM/pix/2015-11-23/10.33.08.jpg][file:./BMM/pix/2015-11-23/sm_10.33.08.jpg]] | [[file:./BMM/pix/2015-11-23/10.33.23.jpg][file:./BMM/pix/2015-11-23/sm_10.33.23.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
 
 * Date: 10 November, 2015
 
