@@ -14,7 +14,22 @@ seconds.  The soundtrack is a loop of /Yakety Axe/, a Chet Atkins
 arrangement for steel guitar of Yakety Sax (which many know as the
 Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
-* Date: 8 December, 2015
+
+* — Date: 14 December, 2015
+
+Over the weekend, progress was made on several details, including the
+bridge to 7ID-A, the small staircase to the mezzanine on 6BM-A, and
+the hoist in 6BM-B.
+
+| Bridge to  7ID-D                           | Another view of the bridge                | The 6BM-B hoist                           | View of hoist from outside 6BM-B          | Small staircase to mezzanine              |
+| [[file:./BMM/pix/2015-12-14/10.43.22.jpg][file:./BMM/pix/2015-12-14/sm_10.43.22.jpg]]  | [[file:./BMM/pix/2015-12-14/10.43.32.jpg][file:./BMM/pix/2015-12-14/sm_10.43.32.jpg]] | [[file:./BMM/pix/2015-12-14/10.43.53.jpg][file:./BMM/pix/2015-12-14/sm_10.43.53.jpg]] | [[file:./BMM/pix/2015-12-14/10.44.15.jpg][file:./BMM/pix/2015-12-14/sm_10.44.15.jpg]] | [[file:./BMM/pix/2015-12-14/10.44.28.jpg][file:./BMM/pix/2015-12-14/sm_10.44.28.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
+* — Date: 8 December, 2015
 
 ** Views from the roof of 5ID-D
 
@@ -52,12 +67,12 @@ Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This mus
    
 #+END_CENTER
 
-* Date: 2 December, 2015
+* — Date: 2 December, 2015
      #+CAPTION: 6BM-A staircase, under construction
      [[file:./BMM/pix/2015-12-02/10.03.54.jpg][file:./BMM/pix/2015-12-02/sm_10.03.54.jpg]]
 
 
-* Date: 1 December, 2015
+* — Date: 1 December, 2015
 
 | Hutch A from downstream                   | Pieces of the hutch A door                | Securing the wall panels to the floor     | Wall assembly                             | A hutch from 5ID-D roof                   | Lifting ceiling panels                    | Lifting ceiling panels                    |
 | [[file:./BMM/pix/2015-12-01/10.16.10.jpg][file:./BMM/pix/2015-12-01/sm_10.16.10.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.40.jpg][file:./BMM/pix/2015-12-01/sm_10.16.40.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.50.jpg][file:./BMM/pix/2015-12-01/sm_10.16.50.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.57.jpg][file:./BMM/pix/2015-12-01/sm_10.16.57.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.19.jpg][file:./BMM/pix/2015-12-01/sm_10.18.19.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.32.jpg][file:./BMM/pix/2015-12-01/sm_10.18.32.jpg]] | [[file:./BMM/pix/2015-12-01/10.21.52.jpg][file:./BMM/pix/2015-12-01/sm_10.21.52.jpg]] |
@@ -66,7 +81,7 @@ Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This mus
    
 #+END_CENTER
 
-* Date: 23 November, 2015
+* — Date: 23 November, 2015
 More of our panels have arrived
 
 | Wall pieces                               | Railing pieces                            |
@@ -76,7 +91,7 @@ More of our panels have arrived
    
 #+END_CENTER
 
-* Date: 10 November, 2015
+* — Date: 10 November, 2015
 
 Hints of things to come: This is the staircase to the 4BM-B roof, assembled yesterday.
 
@@ -84,7 +99,7 @@ Hints of things to come: This is the staircase to the 4BM-B roof, assembled yest
      [[file:./BMM/pix/2015-11-10/08.31.11.jpg][file:./BMM/pix/2015-11-10/sm_08.31.11.jpg]]
 
 
-* Date: 9 November, 2015
+* — Date: 9 November, 2015
 
 Construction begins on BMM.  Hutch panels have been delivered, hutch
 boundaries are marked in ink on the floors, and door slots have been
