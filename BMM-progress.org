@@ -2,6 +2,10 @@
 #+SETUPFILE: theme-readtheorg-local.setup
 #+TITLE: BMM construction photo journal
 
+     #+CAPTION: The finished hutches!
+     [[file:./BMM/pix/2015-12-22/10.02.26.jpg][file:./BMM/pix/2015-12-22/sm_10.02.26.jpg]]
+
+
 * Latest webcam image
 
 | B hutch                                                    | A hutch                                                    |
@@ -14,6 +18,37 @@ seconds.  The soundtrack is a loop of /Yakety Axe/, a Chet Atkins
 arrangement for steel guitar of Yakety Sax (which many know as the
 Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 22 December, 2015
+Just in time for a jolly, jolly holiday, Caratelli finished the BMM
+hutches.  Look how lovely they are!
+
+** Ground level
+
+| The B hutch                               | The staircase                             | The A hutch                               |
+| [[file:./BMM/pix/2015-12-22/10.03.27.jpg][file:./BMM/pix/2015-12-22/sm_10.03.27.jpg]] | [[file:./BMM/pix/2015-12-22/10.03.39.jpg][file:./BMM/pix/2015-12-22/sm_10.03.39.jpg]] | [[file:./BMM/pix/2015-12-22/10.03.48.jpg][file:./BMM/pix/2015-12-22/sm_10.03.48.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** A hutch roof
+
+| Labyrynths                                | Andy ascending the staircase              | Elevated view of B hutch                  | Ventilation and stair to mezzanine        | Ventilation                               |
+| [[file:./BMM/pix/2015-12-22/10.04.08.jpg][file:./BMM/pix/2015-12-22/sm_10.04.08.jpg]] | [[file:./BMM/pix/2015-12-22/10.04.15.jpg][file:./BMM/pix/2015-12-22/sm_10.04.15.jpg]] | [[file:./BMM/pix/2015-12-22/10.04.53.jpg][file:./BMM/pix/2015-12-22/sm_10.04.53.jpg]] | [[file:./BMM/pix/2015-12-22/10.05.03.jpg][file:./BMM/pix/2015-12-22/sm_10.05.03.jpg]] | [[file:./BMM/pix/2015-12-22/10.06.03.jpg][file:./BMM/pix/2015-12-22/sm_10.06.03.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** B hutch roof
+
+| View from 7ID-A roof                      | The bridge                                | Looking upstream                          | 
+| [[file:./BMM/pix/2015-12-22/10.06.26.jpg][file:./BMM/pix/2015-12-22/sm_10.06.26.jpg]] | [[file:./BMM/pix/2015-12-22/10.06.40.jpg][file:./BMM/pix/2015-12-22/sm_10.06.40.jpg]] | [[file:./BMM/pix/2015-12-22/10.06.47.jpg][file:./BMM/pix/2015-12-22/sm_10.06.47.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
 
 * — Date: 14 December, 2015
 
