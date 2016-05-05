@@ -18,12 +18,34 @@ seconds.  The soundtrack is a loop of /Yakety Axe/, a Chet Atkins
 arrangement for steel guitar of Yakety Sax (which many know as the
 Benny Hill theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 5 May, 2016
+
+| Gas distribution in the B hutch           | Gas distribution in the B hutch           | Water distribution in the A hutch         | Gas plumbing into the A hutch             | Gas and water distribution between the hutches | Lights and services downstream of the B hutch |
+| [[file:./BMM/pix/2016-05-05/14.53.20.jpg][file:./BMM/pix/2016-05-05/sm_14.53.20.jpg]] | [[file:./BMM/pix/2016-05-05/14.53.26.jpg][file:./BMM/pix/2016-05-05/sm_14.53.26.jpg]] | [[file:./BMM/pix/2016-05-05/14.54.16.jpg][file:./BMM/pix/2016-05-05/sm_14.54.16.jpg]] | [[file:./BMM/pix/2016-05-05/14.55.06.jpg][file:./BMM/pix/2016-05-05/sm_14.55.06.jpg]] | [[file:./BMM/pix/2016-05-05/14.56.25.jpg][file:./BMM/pix/2016-05-05/sm_14.56.25.jpg]]      | [[file:./BMM/pix/2016-05-05/14.57.10.jpg][file:./BMM/pix/2016-05-05/sm_14.57.10.jpg]]     |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+* — Date: 29 April, 2016
+
+| Gas plumbing into the B hutch             | We now have racks on the B hutch!         | Services extending out to the sample prep area | Services to the rack on the A hutch       |
+| [[file:./BMM/pix/2016-04-29/14.18.57.jpg][file:./BMM/pix/2016-04-29/sm_14.18.57.jpg]] | [[file:./BMM/pix/2016-04-29/14.19.15.jpg][file:./BMM/pix/2016-04-29/sm_14.19.15.jpg]] | [[file:./BMM/pix/2016-04-29/14.19.38.jpg][file:./BMM/pix/2016-04-29/sm_14.19.38.jpg]]      | [[file:./BMM/pix/2016-04-29/14.20.39.jpg][file:./BMM/pix/2016-04-29/sm_14.20.39.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 * — Date: 21 April, 2016
 
 Progress on utilities installation has been amazing!  The electricians and plumbers are doing bang-up work.
 
 | 6BM-A utilities, inboard wall             | PPS in 6BM-A                              | 6BM-B utilities, inboard wall             | Electrical in 6BM-B                       | Racks awaiting installation               | Plumbing on pylon 1                       | Plumbing on Pylons 2 and 3                | Plumbing distribution, 6BM-B              |
 | [[file:./BMM/pix/2016-04-21/11.43.14.jpg][file:./BMM/pix/2016-04-21/sm_11.43.14.jpg]] | [[file:./BMM/pix/2016-04-21/11.43.37.jpg][file:./BMM/pix/2016-04-21/sm_11.43.37.jpg]] | [[file:./BMM/pix/2016-04-21/11.44.06.jpg][file:./BMM/pix/2016-04-21/sm_11.44.06.jpg]] | [[file:./BMM/pix/2016-04-21/11.44.25.jpg][file:./BMM/pix/2016-04-21/sm_11.44.25.jpg]] | [[file:./BMM/pix/2016-04-21/11.46.03.jpg][file:./BMM/pix/2016-04-21/sm_11.46.03.jpg]] | [[file:./BMM/pix/2016-04-21/11.49.21.jpg][file:./BMM/pix/2016-04-21/sm_11.49.21.jpg]] | [[file:./BMM/pix/2016-04-21/11.49.57.jpg][file:./BMM/pix/2016-04-21/sm_11.49.57.jpg]] | [[file:./BMM/pix/2016-04-21/11.50.16.jpg][file:./BMM/pix/2016-04-21/sm_11.50.16.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
 
 * — Date: 13 April, 2016
 
