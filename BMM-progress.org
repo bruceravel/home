@@ -20,7 +20,7 @@ theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in 
 
 * — Date: 10 May, 2016
 
-| Gas and power at pylon 3                  | Close-up of power at pylon 4              | Power on downstream wall of 6BM-B         | Rack plumbing, 6BM-A                      | Rack plumbing, 6BM-B                      | Power distribution panels, upstream wall of 6BM-A |
+| Gas and power at pylon 3                  | Close-up of power at pylon 3              | Power on downstream wall of 6BM-B         | Rack plumbing, 6BM-A                      | Rack plumbing, 6BM-B                      | Power distribution panels, upstream wall of 6BM-A |
 | [[file:./BMM/pix/2016-05-10/13.31.06.jpg][file:./BMM/pix/2016-05-10/sm_13.31.06.jpg]] | [[file:./BMM/pix/2016-05-10/13.31.14.jpg][file:./BMM/pix/2016-05-10/sm_13.31.14.jpg]] | [[file:./BMM/pix/2016-05-10/13.31.29.jpg][file:./BMM/pix/2016-05-10/sm_13.31.29.jpg]] | [[file:./BMM/pix/2016-05-10/13.37.42.jpg][file:./BMM/pix/2016-05-10/sm_13.37.42.jpg]] | [[file:./BMM/pix/2016-05-10/13.38.22.jpg][file:./BMM/pix/2016-05-10/sm_13.38.22.jpg]] | [[file:./BMM/pix/2016-05-10/13.40.39.jpg][file:./BMM/pix/2016-05-10/sm_13.40.39.jpg]]         |
 
 #+BEGIN_CENTER
