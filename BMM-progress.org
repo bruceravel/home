@@ -18,6 +18,18 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+
+* — Date: 17 June, 2016
+
+| Cable trays!                              | Cable trays, looking upstream             | Power to the racks!                       | Water distribution on 6BM-B               | Services from the mezzanine to 6BM-A      |
+| [[file:./BMM/pix/2016-06-17/16.40.21.jpg][file:./BMM/pix/2016-06-17/sm_16.40.21.jpg]] | [[file:./BMM/pix/2016-06-17/16.41.15.jpg][file:./BMM/pix/2016-06-17/sm_16.41.15.jpg]] | [[file:./BMM/pix/2016-06-17/16.42.09.jpg][file:./BMM/pix/2016-06-17/sm_16.42.09.jpg]] | [[file:./BMM/pix/2016-06-17/16.43.08.jpg][file:./BMM/pix/2016-06-17/sm_16.43.08.jpg]] | [[file:./BMM/pix/2016-06-17/16.43.43.jpg][file:./BMM/pix/2016-06-17/sm_16.43.43.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
 * — Date: 10 May, 2016
 
 | Gas and power at pylon 3                  | Close-up of power at pylon 3              | Power on downstream wall of 6BM-B         | Rack plumbing, 6BM-A                      | Rack plumbing, 6BM-B                      | Power distribution panels, upstream wall of 6BM-A |
