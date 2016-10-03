@@ -18,6 +18,29 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 3 October, 2016
+
+Liquid nitrogen distribution is being installed!
+
+| LN2 line dropped through hutch labyrinth  | Components of LN2 distribution system     | LN2 feedline from roof                    | LN2 distribution to 6BM and 7ID           | LN2 distribution from source              |
+| [[file:./BMM/pix/2016-10-03/15.14.10.jpg][file:./BMM/pix/2016-10-03/sm_15.14.10.jpg]] | [[file:./BMM/pix/2016-10-03/15.14.37.jpg][file:./BMM/pix/2016-10-03/sm_15.14.37.jpg]] | [[file:./BMM/pix/2016-10-03/15.15.40.jpg][file:./BMM/pix/2016-10-03/sm_15.15.40.jpg]] | [[file:./BMM/pix/2016-10-03/15.16.06.jpg][file:./BMM/pix/2016-10-03/sm_15.16.06.jpg]] | [[file:./BMM/pix/2016-10-03/15.16.37.jpg][file:./BMM/pix/2016-10-03/sm_15.16.37.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
+* — Date: 16 September, 2016
+
+     #+CAPTION: The 6BM user photon shutter arrived!
+     [[file:./BMM/pix/2016-09-16/11.03.35.jpg][file:./BMM/pix/2016-09-16/sm_11.03.35.jpg]]
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 
 * — Date: 17 June, 2016
 
