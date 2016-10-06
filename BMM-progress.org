@@ -20,6 +20,18 @@ theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in 
 
 * — Date: 3 October, 2016
 
+Liquid nitrogen distribution is installed!
+
+| Drop point on 6BM-A roof                  | LN2 line entering the labyrinth           | LN2 tap in the end station                |
+| [[file:./BMM/pix/2016-10-06/17.00.14.jpg][file:./BMM/pix/2016-10-06/sm_17.00.14.jpg]] | [[file:./BMM/pix/2016-10-06/17.00.25.jpg][file:./BMM/pix/2016-10-06/sm_17.00.25.jpg]] | [[file:./BMM/pix/2016-10-06/17.01.50.jpg][file:./BMM/pix/2016-10-06/sm_17.01.50.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+* — Date: 3 October, 2016
+
 Liquid nitrogen distribution is being installed!
 
 | LN2 line dropped through hutch labyrinth  | Components of LN2 distribution system     | LN2 feedline from roof                    | LN2 distribution to 6BM and 7ID           | LN2 distribution from source              |
