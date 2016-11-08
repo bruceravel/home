@@ -18,6 +18,68 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 8 November, 2016
+
+Factory acceptance testing at the FMB Oxford factory!
+
+** BMM Mirror 1
+
+| M1 viewed from the perspective of the beam | View of the cooling slot in the dummy optic | Setting up for motion testing             | Upstream vertical jack                    | Upstream horizontal translation           | Upstream vertical jack                    | Lead shielding for encoders               |
+| [[file:./BMM/pix/2016-11-08/10.45.42.jpg][file:./BMM/pix/2016-11-08/sm_10.45.42.jpg]]  | [[file:./BMM/pix/2016-11-08/10.45.58.jpg][file:./BMM/pix/2016-11-08/sm_10.45.58.jpg]]   | [[file:./BMM/pix/2016-11-08/10.46.08.jpg][file:./BMM/pix/2016-11-08/sm_10.46.08.jpg]] | [[file:./BMM/pix/2016-11-08/10.46.29.jpg][file:./BMM/pix/2016-11-08/sm_10.46.29.jpg]] | [[file:./BMM/pix/2016-11-08/10.46.43.jpg][file:./BMM/pix/2016-11-08/sm_10.46.43.jpg]] | [[file:./BMM/pix/2016-11-08/10.46.59.jpg][file:./BMM/pix/2016-11-08/sm_10.46.59.jpg]] | [[file:./BMM/pix/2016-11-08/10.47.10.jpg][file:./BMM/pix/2016-11-08/sm_10.47.10.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** SST Diagnostic Modules
+
+DM1 is ready to ship.  Current from the photo diode in M1 was
+demonstrated while I was there.  DM3 is complete and ready for
+bake-out.  DM7 needs alignment before bake.
+
+| DM1                                       | DM1                                       | DM3                                       | DM7                                       | unassembled diagnostic modules            |
+| [[file:./BMM/pix/2016-11-08/10.47.34.jpg][file:./BMM/pix/2016-11-08/sm_10.47.34.jpg]] | [[file:./BMM/pix/2016-11-08/10.47.47.jpg][file:./BMM/pix/2016-11-08/sm_10.47.47.jpg]] | [[file:./BMM/pix/2016-11-08/10.48.51.jpg][file:./BMM/pix/2016-11-08/sm_10.48.51.jpg]] | [[file:./BMM/pix/2016-11-08/10.49.11.jpg][file:./BMM/pix/2016-11-08/sm_10.49.11.jpg]] | [[file:./BMM/pix/2016-11-08/11.47.27.jpg][file:./BMM/pix/2016-11-08/sm_11.47.27.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** BMM M1 testing demonstration
+
+| M1 pitch measurement                      | M1 pitch test + test computer             | M1 Yaw measurement                        |
+| [[file:./BMM/pix/2016-11-08/10.48.08.jpg][file:./BMM/pix/2016-11-08/sm_10.48.08.jpg]] | [[file:./BMM/pix/2016-11-08/10.50.01.jpg][file:./BMM/pix/2016-11-08/sm_10.50.01.jpg]] | [[file:./BMM/pix/2016-11-08/11.50.29.jpg][file:./BMM/pix/2016-11-08/sm_11.50.29.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** BMM M2 and M3 bake-out
+
+| M2 and M3 at their bake-out stations      | Bake-out rig                              | Blanketed mirror                          | another view                              |
+| [[file:./BMM/pix/2016-11-08/11.46.46.jpg][file:./BMM/pix/2016-11-08/sm_11.46.46.jpg]] | [[file:./BMM/pix/2016-11-08/11.46.56.jpg][file:./BMM/pix/2016-11-08/sm_11.46.56.jpg]] | [[file:./BMM/pix/2016-11-08/11.47.02.jpg][file:./BMM/pix/2016-11-08/sm_11.47.02.jpg]] | [[file:./BMM/pix/2016-11-08/11.49.22.jpg][file:./BMM/pix/2016-11-08/sm_11.49.22.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** SST cryocooler
+
+| Cryocooler at its build station           | Cryocooler and its housing                | closeup                                   | closeup                                   | closeup                                   |
+| [[file:./BMM/pix/2016-11-08/11.48.10.jpg][file:./BMM/pix/2016-11-08/sm_11.48.10.jpg]] | [[file:./BMM/pix/2016-11-08/11.48.22.jpg][file:./BMM/pix/2016-11-08/sm_11.48.22.jpg]] | [[file:./BMM/pix/2016-11-08/11.48.32.jpg][file:./BMM/pix/2016-11-08/sm_11.48.32.jpg]] | [[file:./BMM/pix/2016-11-08/11.48.41.jpg][file:./BMM/pix/2016-11-08/sm_11.48.41.jpg]] | [[file:./BMM/pix/2016-11-08/11.49.00.jpg][file:./BMM/pix/2016-11-08/sm_11.49.00.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Slits and diagnostics in various states of assembly
+
+| [[file:./BMM/pix/2016-11-08/15.36.47.jpg][file:./BMM/pix/2016-11-08/sm_15.36.47.jpg]  | [[file:./BMM/pix/2016-11-08/15.37.01.jpg][file:./BMM/pix/2016-11-08/sm_15.37.01.jpg]] | [[file:./BMM/pix/2016-11-08/15.38.13.jpg][file:./BMM/pix/2016-11-08/sm_15.38.13.jpg]] | [[file:./BMM/pix/2016-11-08/15.38.30.jpg][file:./BMM/pix/2016-11-08/sm_15.38.30.jpg]] | [[file:./BMM/pix/2016-11-08/15.40.56.jpg][file:./BMM/pix/2016-11-08/sm_15.40.56.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
 * — Date: 18 October, 2016
 
 Front end floor drilling started today.
