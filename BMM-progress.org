@@ -24,7 +24,7 @@ Factory acceptance testing at the FMB Oxford factory!
 
 ** BMM Mirror 1
 
-| M1 viewed from the perspective of the beam | View of the cooling slot in the dummy optic | Setting up for motion testing             | Upstream vertical jack                    | Upstream horizontal translation           | Upstream vertical jack                    | Lead shielding for encoders               |
+| M1 viewed from the perspective of the beam | View of the cooling slot in the dummy optic | Setting up for motion testing             | Upstream vertical jack                    | Upstream horizontal translation           | Downstream vertical jacks                 | Lead shielding for encoders               |
 | [[file:./BMM/pix/2016-11-08/10.45.42.jpg][file:./BMM/pix/2016-11-08/sm_10.45.42.jpg]]  | [[file:./BMM/pix/2016-11-08/10.45.58.jpg][file:./BMM/pix/2016-11-08/sm_10.45.58.jpg]]   | [[file:./BMM/pix/2016-11-08/10.46.08.jpg][file:./BMM/pix/2016-11-08/sm_10.46.08.jpg]] | [[file:./BMM/pix/2016-11-08/10.46.29.jpg][file:./BMM/pix/2016-11-08/sm_10.46.29.jpg]] | [[file:./BMM/pix/2016-11-08/10.46.43.jpg][file:./BMM/pix/2016-11-08/sm_10.46.43.jpg]] | [[file:./BMM/pix/2016-11-08/10.46.59.jpg][file:./BMM/pix/2016-11-08/sm_10.46.59.jpg]] | [[file:./BMM/pix/2016-11-08/10.47.10.jpg][file:./BMM/pix/2016-11-08/sm_10.47.10.jpg]] |
 
 #+BEGIN_CENTER
