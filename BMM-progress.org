@@ -73,7 +73,7 @@ bake-out.  DM7 needs alignment before bake.
 
 ** Slits and diagnostics in various states of assembly
 
-| [[file:./BMM/pix/2016-11-08/15.36.47.jpg][file:./BMM/pix/2016-11-08/sm_15.36.47.jpg]  | [[file:./BMM/pix/2016-11-08/15.37.01.jpg][file:./BMM/pix/2016-11-08/sm_15.37.01.jpg]] | [[file:./BMM/pix/2016-11-08/15.38.13.jpg][file:./BMM/pix/2016-11-08/sm_15.38.13.jpg]] | [[file:./BMM/pix/2016-11-08/15.38.30.jpg][file:./BMM/pix/2016-11-08/sm_15.38.30.jpg]] | [[file:./BMM/pix/2016-11-08/15.40.56.jpg][file:./BMM/pix/2016-11-08/sm_15.40.56.jpg]] |
+| [[file:./BMM/pix/2016-11-08/15.36.47.jpg][file:./BMM/pix/2016-11-08/sm_15.36.47.jpg]] | [[file:./BMM/pix/2016-11-08/15.37.01.jpg][file:./BMM/pix/2016-11-08/sm_15.37.01.jpg]] | [[file:./BMM/pix/2016-11-08/15.38.13.jpg][file:./BMM/pix/2016-11-08/sm_15.38.13.jpg]] | [[file:./BMM/pix/2016-11-08/15.38.30.jpg][file:./BMM/pix/2016-11-08/sm_15.38.30.jpg]] | [[file:./BMM/pix/2016-11-08/15.40.56.jpg][file:./BMM/pix/2016-11-08/sm_15.40.56.jpg]] |
 
 #+BEGIN_CENTER
    
