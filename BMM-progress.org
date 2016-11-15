@@ -18,6 +18,17 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 15 November, 2016
+
+Ventilation was installed to the end station.
+
+| View of ventilation from 7ID              | Connection to hutch roof                  | Flyway to main exhaust system             |
+| [[file:./BMM/pix/2016-11-15/12.47.54.jpg][file:./BMM/pix/2016-11-15/sm_12.47.54.jpg]] | [[file:./BMM/pix/2016-11-15/12.48.07.jpg][file:./BMM/pix/2016-11-15/sm_12.48.07.jpg]] | [[file:./BMM/pix/2016-11-15/12.48.21.jpg][file:./BMM/pix/2016-11-15/sm_12.48.21.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 * — Date: 8 November, 2016
 
 Factory acceptance testing at the FMB Oxford factory!
