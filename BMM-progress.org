@@ -18,6 +18,30 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 14 December, 2016
+
+I went to the APS for a week of experiments.  Upon my return A LOT of
+stuff happened!  M1 and front end installation also began.  Photos to
+come.
+
+** FOE
+
+| Photon shutter at the end of 6BM-A        | Cables pulled into 6BM-A                  | Grouting and base plates for mono and mirrors | Amber and red PPS lights in 6BM-A         | Ratchet wall feedthrough + valve          |
+| [[file:./BMM/pix/2016-12-14/09.29.36.jpg][file:./BMM/pix/2016-12-14/sm_09.29.36.jpg]] | [[file:./BMM/pix/2016-12-14/09.29.52.jpg][file:./BMM/pix/2016-12-14/sm_09.29.52.jpg]] | [[file:./BMM/pix/2016-12-14/09.30.26.jpg][file:./BMM/pix/2016-12-14/sm_09.30.26.jpg]]     | [[file:./BMM/pix/2016-12-14/09.30.36.jpg][file:./BMM/pix/2016-12-14/sm_09.30.36.jpg]] | [[file:./BMM/pix/2016-12-14/09.44.21.jpg][file:./BMM/pix/2016-12-14/sm_09.44.21.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** End station
+
+| Amber and red PPS lights in 6BM-B         | Oxygen deficiency hazard (ODH) sensor in 6BM-B | User labyrynth with PPS switch            |
+| [[file:./BMM/pix/2016-12-14/09.43.12.jpg][file:./BMM/pix/2016-12-14/sm_09.43.12.jpg]] | [[file:./BMM/pix/2016-12-14/09.43.27.jpg][file:./BMM/pix/2016-12-14/sm_09.43.27.jpg]]      | [[file:./BMM/pix/2016-12-14/09.43.46.jpg][file:./BMM/pix/2016-12-14/sm_09.43.46.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 * — Date: 15 November, 2016
 
 Ventilation was installed to the end station.
