@@ -6,28 +6,64 @@
      [[file:./BMM/pix/2015-12-22/10.02.26.jpg][file:./BMM/pix/2015-12-22/sm_10.02.26.jpg]]
 
 
-* Webcam images, December 23, 2015
+* Hutch construction webcam images, December 23, 2015
 
 | B hutch                                                    | A hutch                                                    |
 | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-B.jpg]] | [[https://s3.amazonaws.com/bruce-ravel-site/bmm-latest-A.jpg]] |
 
 
-Latest [[https://s3.amazonaws.com/bruce-ravel-site/BMM_hutches.avi][hutch construction video]] (avi format, 9.6 MB).  This includes
-snapshots from Nov 30 through Dec 7 and runs about 1 minutes 19
+Last [[https://s3.amazonaws.com/bruce-ravel-site/BMM_hutches.avi][hutch construction video]] (avi format, 9.6 MB).  This includes
+snapshots from Nov 30 through Dec 7, 2015 and runs about 1 minutes 19
 seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 16 December, 2016
+
+The collimating mirror (M1) and the front end are being installed this week.
+
+
+** The M1 optic
+
+| The entire optic                          | Close up showing the saggital curvature   |
+| [[file:./BMM/pix/2016-12-16/15.38.48.jpg][file:./BMM/pix/2016-12-16/sm_15.38.48.jpg]] | [[file:./BMM/pix/2016-12-16/15.38.56.jpg][file:./BMM/pix/2016-12-16/sm_15.38.56.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** M1 installed in the front end
+
+In these photos, M1 is open with the vessel lid supported by rods so that the optic can be installed.
+
+| M1 from upstream                          | M1 from the inboard side                  | M1 from downstream                        |
+| [[file:./BMM/pix/2016-12-16/15.39.30.jpg][file:./BMM/pix/2016-12-16/sm_15.39.30.jpg]] | [[file:./BMM/pix/2016-12-16/15.40.33.jpg][file:./BMM/pix/2016-12-16/sm_15.40.33.jpg]] | [[file:./BMM/pix/2016-12-16/15.43.17.jpg][file:./BMM/pix/2016-12-16/sm_15.43.17.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** The front end, partially installed
+
+| Slits and masks                           | Transport pipe                            | M1                                        | Partial assembly, upstream of mirror      | Closeup of slits                          | Ratchet wall                              |
+| [[file:./BMM/pix/2016-12-16/15.39.59.jpg][file:./BMM/pix/2016-12-16/sm_15.39.59.jpg]] | [[file:./BMM/pix/2016-12-16/15.40.06.jpg][file:./BMM/pix/2016-12-16/sm_15.40.06.jpg]] | [[file:./BMM/pix/2016-12-16/15.40.17.jpg][file:./BMM/pix/2016-12-16/sm_15.40.17.jpg]] | [[file:./BMM/pix/2016-12-16/15.40.39.jpg][file:./BMM/pix/2016-12-16/sm_15.40.39.jpg]] | [[file:./BMM/pix/2016-12-16/15.42.58.jpg][file:./BMM/pix/2016-12-16/sm_15.42.58.jpg]] | [[file:./BMM/pix/2016-12-16/15.43.43.jpg][file:./BMM/pix/2016-12-16/sm_15.43.43.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
 * — Date: 14 December, 2016
 
 I went to the APS for a week of experiments.  Upon my return A LOT of
-stuff happened!  M1 and front end installation also began.  Photos to
+stuff had happened!  M1 and front end installation also began.  Photos to
 come.
 
 ** FOE
 
-| Photon shutter at the end of 6BM-A        | Cables pulled into 6BM-A                  | Grouting and base plates for mono and mirrors | Amber and red PPS lights in 6BM-A         | Ratchet wall feedthrough + valve          |
-| [[file:./BMM/pix/2016-12-14/09.29.36.jpg][file:./BMM/pix/2016-12-14/sm_09.29.36.jpg]] | [[file:./BMM/pix/2016-12-14/09.29.52.jpg][file:./BMM/pix/2016-12-14/sm_09.29.52.jpg]] | [[file:./BMM/pix/2016-12-14/09.30.26.jpg][file:./BMM/pix/2016-12-14/sm_09.30.26.jpg]]     | [[file:./BMM/pix/2016-12-14/09.30.36.jpg][file:./BMM/pix/2016-12-14/sm_09.30.36.jpg]] | [[file:./BMM/pix/2016-12-14/09.44.21.jpg][file:./BMM/pix/2016-12-14/sm_09.44.21.jpg]] |
+| Photon shutter at the end of 6BM-A        | Cables pulled into 6BM-A                  | Grouting and base plates for mono and mirrors | Amber and red PPS lights in 6BM-A         | Ratchet wall feedthrough + valve          | PPS wiring for 6BM-A                      |
+| [[file:./BMM/pix/2016-12-14/09.29.36.jpg][file:./BMM/pix/2016-12-14/sm_09.29.36.jpg]] | [[file:./BMM/pix/2016-12-14/09.29.52.jpg][file:./BMM/pix/2016-12-14/sm_09.29.52.jpg]] | [[file:./BMM/pix/2016-12-14/09.30.26.jpg][file:./BMM/pix/2016-12-14/sm_09.30.26.jpg]]     | [[file:./BMM/pix/2016-12-14/09.30.36.jpg][file:./BMM/pix/2016-12-14/sm_09.30.36.jpg]] | [[file:./BMM/pix/2016-12-14/09.44.21.jpg][file:./BMM/pix/2016-12-14/sm_09.44.21.jpg]] | [[file:./BMM/pix/2016-12-16/14.06.10.jpg][file:./BMM/pix/2016-12-16/sm_14.06.10.jpg]] |
 
 #+BEGIN_CENTER
    
