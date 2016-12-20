@@ -18,6 +18,19 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 20 December, 2016
+
+M1 assembly
+
+| Looking down the length of M1             | Working on M1                             |
+| [[file:./BMM/pix/2016-12-20/15.47.35.jpg][file:./BMM/pix/2016-12-20/sm_15.47.35.jpg]] | [[file:./BMM/pix/2016-12-20/15.48.22.jpg][file:./BMM/pix/2016-12-20/sm_15.48.22.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
 * — Date: 16 December, 2016
 
 The collimating mirror (M1) and the front end are being installed this week.
