@@ -748,7 +748,7 @@ hr{
     width:300px;
     overflow-x:hidden;
     overflow-y:auto;
-    height:100%;
+    height:90%;
     background:#343131;
     z-index:200;
     scrollbar-base-color: #1F1D1D;
@@ -853,6 +853,8 @@ footer p{
     border-top:solid 10px #343131;
     font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
     font-size: 90%;
+    height:10%;
+    overflow-y:auto;
     z-index:400;
     padding:12px;
 }
