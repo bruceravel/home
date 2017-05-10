@@ -18,6 +18,96 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* — Date: 10 May, 2017
+
+** Ends of the transport pipe
+
+These two shots show the ends of the transport pipe.  Each end will be
+attached via bellows to the adjacent component.
+
+| Fluorescent screen, installed in end station | Shutter in FOE                            |
+| [[file:./BMM/pix/2017-05-10/08.42.58.jpg][file:./BMM/pix/2017-05-10/sm_08.42.58.jpg]]    | [[file:./BMM/pix/2017-05-10/08.44.13.jpg][file:./BMM/pix/2017-05-10/sm_08.44.13.jpg]] |
+
+* — Date: 9 May, 2017
+
+** Monochromator
+
+Ian begins work to replace the crystal cage.  The mono has been
+removed from the hutch to allow space to install the first diagnostic
+module, which will arrive in a few days.
+
+| Beginning work                            | Disassembling                             |
+| [[file:./BMM/pix/2017-05-09/09.36.49.jpg][file:./BMM/pix/2017-05-09/sm_09.36.49.jpg]] | [[file:./BMM/pix/2017-05-09/09.36.58.jpg][file:./BMM/pix/2017-05-09/sm_09.36.58.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
+** Uncooled fluorescent screen stand
+
+     #+CAPTION: Beau is working on attaching the ion pump to the vacuum vessel.  This is the first item in the end station.
+     [[file:./BMM/pix/2016-09-16/11.03.35.jpg][file:./BMM/pix/2017-05-09/sm_09.37.39.jpg]]
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
+** Pump stand for the transport pipe
+
+This stand supports a shielded box which holds an in-line ion pump.
+This, along with the pump on the fluorescent screen shown above, pumps
+out the transport line between the hutches.
+
+| The holes don't quite line up with the holes in the floor | Art the rigger is waiting to lift the shielded box | Ian drills out the holes on the stand's legs | More drilling                             | 
+| [[file:./BMM/pix/2017-05-09/10.35.13.jpg][file:./BMM/pix/2017-05-09/sm_10.35.13.jpg]]                 | [[file:./BMM/pix/2017-05-09/10.35.44.jpg][file:./BMM/pix/2017-05-09/sm_10.35.44.jpg]]          | [[file:./BMM/pix/2017-05-09/10.46.48.jpg][file:./BMM/pix/2017-05-09/sm_10.46.48.jpg]]    | [[file:./BMM/pix/2017-05-09/10.47.07.jpg][file:./BMM/pix/2017-05-09/sm_10.47.07.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+The box is then jockeyed into position on the stand.  This thing weights a lot!
+
+| Positioning                               | Lifting                                   | Getting there                             | Close                                     | Just about!                               |
+| [[file:./BMM/pix/2017-05-09/11.14.31.jpg][file:./BMM/pix/2017-05-09/sm_11.14.31.jpg]] | [[file:./BMM/pix/2017-05-09/11.16.13.jpg][file:./BMM/pix/2017-05-09/sm_11.16.13.jpg]] | [[file:./BMM/pix/2017-05-09/11.17.22.jpg][file:./BMM/pix/2017-05-09/sm_11.17.22.jpg]] | [[file:./BMM/pix/2017-05-09/11.18.06.jpg][file:./BMM/pix/2017-05-09/sm_11.18.06.jpg]] | [[file:./BMM/pix/2017-05-09/11.18.55.jpg][file:./BMM/pix/2017-05-09/sm_11.18.55.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+The pump vessel and the secondary stand are now ready for the transport pipe.  The red-painted parts are lead, the blue are steel.
+
+| Empty shielded box.                       | Secondary stand                           |
+| [[file:./BMM/pix/2017-05-09/13.06.30.jpg][file:./BMM/pix/2017-05-09/sm_13.06.30.jpg]] | [[file:./BMM/pix/2017-05-09/13.06.47.jpg][file:./BMM/pix/2017-05-09/sm_13.06.47.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Transport pipe
+
+This is a 6-inch steel tube with lead shielding wrapped around it.  It weights about 370 kg/800 pounds.
+
+| Remove the trasport from the shipping container | Carrying                                  | Lifting                                   |
+| [[file:./BMM/pix/2017-05-09/13.28.59.jpg][file:./BMM/pix/2017-05-09/sm_13.28.59.jpg]]       | [[file:./BMM/pix/2017-05-09/13.29.53.jpg][file:./BMM/pix/2017-05-09/sm_13.29.53.jpg]] | [[file:./BMM/pix/2017-05-09/13.39.29.jpg][file:./BMM/pix/2017-05-09/sm_13.39.29.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+At this point, I had to run away to make a presentation about BMM to
+the Radiation Safety Committee.  When I returned, the transport pipe
+was in place.  
+
+| Transport pipe protruding into the end station | Pipe resting on a collette in the shielded box | Ian and Beau work on attaching the lead collers to pipe | It was a difficult job                    |
+| [[file:./BMM/pix/2017-05-09/15.24.13.jpg][file:./BMM/pix/2017-05-09/sm_15.24.13.jpg]]      | [[file:./BMM/pix/2017-05-09/15.24.42.jpg][file:./BMM/pix/2017-05-09/sm_15.24.42.jpg]]      | [[file:./BMM/pix/2017-05-09/17.11.14.jpg][file:./BMM/pix/2017-05-09/sm_17.11.14.jpg]]               | [[file:./BMM/pix/2017-05-09/17.11.32.jpg][file:./BMM/pix/2017-05-09/sm_17.11.32.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 * — Date: 20 December, 2016
 
 M1 assembly
