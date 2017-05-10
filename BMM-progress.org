@@ -1,6 +1,7 @@
 #+STARTUP: showall
 #+SETUPFILE: theme-readtheorg-local.setup
 #+TITLE: BMM construction photo journal
+#+options: num:nil
 
      #+CAPTION: The finished hutches!
      [[file:./BMM/pix/2015-12-22/10.02.26.jpg][file:./BMM/pix/2015-12-22/sm_10.02.26.jpg]]
@@ -18,7 +19,7 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
-* — Date: 10 May, 2017
+* May 10  2017
 
 ** Ends of the transport pipe
 
@@ -28,7 +29,32 @@ attached via bellows to the adjacent component.
 | Fluorescent screen, installed in end station | Shutter in FOE                            |
 | [[file:./BMM/pix/2017-05-10/08.42.58.jpg][file:./BMM/pix/2017-05-10/sm_08.42.58.jpg]]    | [[file:./BMM/pix/2017-05-10/08.44.13.jpg][file:./BMM/pix/2017-05-10/sm_08.44.13.jpg]] |
 
-* — Date: 9 May, 2017
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Removing M2, M3, and DM2 from their pallets
+
+M2 is our toroidal focusing mirror.  M3 is a planar harmonic rejection
+mirror.  DM2 is the diagnostic module between the mono and M2, it has
+a screen and slits.
+
+| M2, M3, DM2 as delivered                  | Preparing to lift M2                      | M2 hoisted                                | M3 hoisted                                | Lining them up                            | Lifting DM2                               |
+| [[file:./BMM/pix/2017-05-10/13.38.51.jpg][file:./BMM/pix/2017-05-10/sm_13.38.51.jpg]] | [[file:./BMM/pix/2017-05-10/13.48.06.jpg][file:./BMM/pix/2017-05-10/sm_13.48.06.jpg]] | [[file:./BMM/pix/2017-05-10/13.53.01.jpg][file:./BMM/pix/2017-05-10/sm_13.53.01.jpg]] | [[file:./BMM/pix/2017-05-10/14.09.55.jpg][file:./BMM/pix/2017-05-10/sm_14.09.55.jpg]] | [[file:./BMM/pix/2017-05-10/14.11.02.jpg][file:./BMM/pix/2017-05-10/sm_14.11.02.jpg]] | [[file:./BMM/pix/2017-05-10/14.21.02.jpg][file:./BMM/pix/2017-05-10/sm_14.21.02.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+     #+CAPTION: Mono, M2, M3, and DM2 all staged and ready to go.
+     [[file:./BMM/pix/2016-09-16/11.03.35.jpg][file:./BMM/pix/2017-05-10/sm_14.37.34.jpg]]
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+* May 9, 2017
 
 ** Monochromator
 
@@ -108,7 +134,7 @@ was in place.
    
 #+END_CENTER
 
-* — Date: 20 December, 2016
+* December 20, 2016
 
 M1 assembly
 
@@ -121,7 +147,7 @@ M1 assembly
 #+END_CENTER
 
 
-* — Date: 16 December, 2016
+* December 16, 2016
 
 The collimating mirror (M1) and the front end are being installed this week.
 
@@ -157,7 +183,7 @@ In these photos, M1 is open with the vessel lid supported by rods so that the op
 #+END_CENTER
 
 
-* — Date: 14 December, 2016
+* December 14, 2016
 
 I went to the APS for a week of experiments.  Upon my return A LOT of
 stuff had happened!  M1 and front end installation also began.  Photos to
@@ -181,7 +207,7 @@ come.
    
 #+END_CENTER
 
-* — Date: 15 November, 2016
+* November 15, 2016
 
 Ventilation was installed to the end station.
 
@@ -192,7 +218,7 @@ Ventilation was installed to the end station.
    
 #+END_CENTER
 
-* — Date: 8 November, 2016
+* November 8, 2016
 
 Factory acceptance testing at the FMB Oxford factory!
 
@@ -254,7 +280,7 @@ bake-out.  DM7 needs alignment before bake.
 #+END_CENTER
 
 
-* — Date: 18 October, 2016
+* October 18, 2016
 
 Front end floor drilling started today.
 
@@ -265,7 +291,7 @@ Front end floor drilling started today.
    
 #+END_CENTER
 
-* — Date: 6 October, 2016
+* October 6, 2016
 
 Liquid nitrogen distribution is installed!
 
@@ -277,7 +303,7 @@ Liquid nitrogen distribution is installed!
    
 #+END_CENTER
 
-* — Date: 3 October, 2016
+* October 3, 2016
 
 Liquid nitrogen distribution is being installed!
 
@@ -290,7 +316,7 @@ Liquid nitrogen distribution is being installed!
 #+END_CENTER
 
 
-* — Date: 16 September, 2016
+* September 16, 2016
 
      #+CAPTION: The 6BM user photon shutter arrived!
      [[file:./BMM/pix/2016-09-16/11.03.35.jpg][file:./BMM/pix/2016-09-16/sm_11.03.35.jpg]]
@@ -301,7 +327,7 @@ Liquid nitrogen distribution is being installed!
 #+END_CENTER
 
 
-* — Date: 17 June, 2016
+* June 17, 2016
 
 | Cable trays!                              | Cable trays, looking upstream             | Power to the racks!                       | Water distribution on 6BM-B               | Services from the mezzanine to 6BM-A      |
 | [[file:./BMM/pix/2016-06-17/16.40.21.jpg][file:./BMM/pix/2016-06-17/sm_16.40.21.jpg]] | [[file:./BMM/pix/2016-06-17/16.41.15.jpg][file:./BMM/pix/2016-06-17/sm_16.41.15.jpg]] | [[file:./BMM/pix/2016-06-17/16.42.09.jpg][file:./BMM/pix/2016-06-17/sm_16.42.09.jpg]] | [[file:./BMM/pix/2016-06-17/16.43.08.jpg][file:./BMM/pix/2016-06-17/sm_16.43.08.jpg]] | [[file:./BMM/pix/2016-06-17/16.43.43.jpg][file:./BMM/pix/2016-06-17/sm_16.43.43.jpg]] |
@@ -312,7 +338,7 @@ Liquid nitrogen distribution is being installed!
 #+END_CENTER
 
 
-* — Date: 10 May, 2016
+* May 10, 2016
 
 | Gas and power at pylon 3                  | Close-up of power at pylon 3              | Power on downstream wall of 6BM-B         | Rack plumbing, 6BM-A                      | Rack plumbing, 6BM-B                      | Power distribution panels, upstream wall of 6BM-A |
 | [[file:./BMM/pix/2016-05-10/13.31.06.jpg][file:./BMM/pix/2016-05-10/sm_13.31.06.jpg]] | [[file:./BMM/pix/2016-05-10/13.31.14.jpg][file:./BMM/pix/2016-05-10/sm_13.31.14.jpg]] | [[file:./BMM/pix/2016-05-10/13.31.29.jpg][file:./BMM/pix/2016-05-10/sm_13.31.29.jpg]] | [[file:./BMM/pix/2016-05-10/13.37.42.jpg][file:./BMM/pix/2016-05-10/sm_13.37.42.jpg]] | [[file:./BMM/pix/2016-05-10/13.38.22.jpg][file:./BMM/pix/2016-05-10/sm_13.38.22.jpg]] | [[file:./BMM/pix/2016-05-10/13.40.39.jpg][file:./BMM/pix/2016-05-10/sm_13.40.39.jpg]]         |
@@ -321,7 +347,7 @@ Liquid nitrogen distribution is being installed!
    
 #+END_CENTER
 
-* — Date: 5 May, 2016
+* May 5, 2016
 
 | Gas distribution in the B hutch           | Gas distribution in the B hutch           | Water distribution in the A hutch         | Gas plumbing into the A hutch             | Gas and water distribution between the hutches | Lights and services downstream of the B hutch |
 | [[file:./BMM/pix/2016-05-05/14.53.20.jpg][file:./BMM/pix/2016-05-05/sm_14.53.20.jpg]] | [[file:./BMM/pix/2016-05-05/14.53.26.jpg][file:./BMM/pix/2016-05-05/sm_14.53.26.jpg]] | [[file:./BMM/pix/2016-05-05/14.54.16.jpg][file:./BMM/pix/2016-05-05/sm_14.54.16.jpg]] | [[file:./BMM/pix/2016-05-05/14.55.06.jpg][file:./BMM/pix/2016-05-05/sm_14.55.06.jpg]] | [[file:./BMM/pix/2016-05-05/14.56.25.jpg][file:./BMM/pix/2016-05-05/sm_14.56.25.jpg]]      | [[file:./BMM/pix/2016-05-05/14.57.10.jpg][file:./BMM/pix/2016-05-05/sm_14.57.10.jpg]]     |
@@ -330,7 +356,7 @@ Liquid nitrogen distribution is being installed!
    
 #+END_CENTER
 
-* — Date: 29 April, 2016
+* April 29, 2016
 
 | Gas plumbing into the B hutch             | We now have racks on the B hutch!         | Services extending out to the sample prep area | Services to the rack on the A hutch       |
 | [[file:./BMM/pix/2016-04-29/14.18.57.jpg][file:./BMM/pix/2016-04-29/sm_14.18.57.jpg]] | [[file:./BMM/pix/2016-04-29/14.19.15.jpg][file:./BMM/pix/2016-04-29/sm_14.19.15.jpg]] | [[file:./BMM/pix/2016-04-29/14.19.38.jpg][file:./BMM/pix/2016-04-29/sm_14.19.38.jpg]]      | [[file:./BMM/pix/2016-04-29/14.20.39.jpg][file:./BMM/pix/2016-04-29/sm_14.20.39.jpg]] |
@@ -339,7 +365,7 @@ Liquid nitrogen distribution is being installed!
    
 #+END_CENTER
 
-* — Date: 21 April, 2016
+* April 21, 2016
 
 Progress on utilities installation has been amazing!  The electricians and plumbers are doing bang-up work.
 
@@ -350,7 +376,7 @@ Progress on utilities installation has been amazing!  The electricians and plumb
    
 #+END_CENTER
 
-* — Date: 13 April, 2016
+* April 13, 2016
 
 Today, an electronics rack was lifted to the roof of the 6BM-A hutch and installed.
 
@@ -361,7 +387,7 @@ Today, an electronics rack was lifted to the roof of the 6BM-A hutch and install
    
 #+END_CENTER
 
-* — Date: 5 April, 2016
+* April 5, 2016
 
 Utilities installation has begun!
 
@@ -374,7 +400,7 @@ Utilities installation has begun!
 #+END_CENTER
 
 
-* — Date: 22 December, 2015
+* December 22, 2015
 Just in time for a jolly, jolly holiday, Caratelli finished the BMM
 hutches.  Look how lovely they are!
 
@@ -406,7 +432,7 @@ hutches.  Look how lovely they are!
    
 #+END_CENTER
 
-* — Date: 14 December, 2015
+* December 14, 2015
 
 Over the weekend, progress was made on several details, including the
 bridge to 7ID-A, the small staircase to the mezzanine on 6BM-A, and
@@ -420,7 +446,7 @@ the hoist in 6BM-B.
 #+END_CENTER
 
 
-* — Date: 8 December, 2015
+* December 8, 2015
 
 ** Views from the roof of 5ID-D
 
@@ -458,12 +484,12 @@ the hoist in 6BM-B.
    
 #+END_CENTER
 
-* — Date: 2 December, 2015
+* December 2, 2015
      #+CAPTION: 6BM-A staircase, under construction
      [[file:./BMM/pix/2015-12-02/10.03.54.jpg][file:./BMM/pix/2015-12-02/sm_10.03.54.jpg]]
 
 
-* — Date: 1 December, 2015
+* December 1, 2015
 
 | Hutch A from downstream                   | Pieces of the hutch A door                | Securing the wall panels to the floor     | Wall assembly                             | A hutch from 5ID-D roof                   | Lifting ceiling panels                    | Lifting ceiling panels                    |
 | [[file:./BMM/pix/2015-12-01/10.16.10.jpg][file:./BMM/pix/2015-12-01/sm_10.16.10.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.40.jpg][file:./BMM/pix/2015-12-01/sm_10.16.40.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.50.jpg][file:./BMM/pix/2015-12-01/sm_10.16.50.jpg]] | [[file:./BMM/pix/2015-12-01/10.16.57.jpg][file:./BMM/pix/2015-12-01/sm_10.16.57.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.19.jpg][file:./BMM/pix/2015-12-01/sm_10.18.19.jpg]] | [[file:./BMM/pix/2015-12-01/10.18.32.jpg][file:./BMM/pix/2015-12-01/sm_10.18.32.jpg]] | [[file:./BMM/pix/2015-12-01/10.21.52.jpg][file:./BMM/pix/2015-12-01/sm_10.21.52.jpg]] |
@@ -472,7 +498,7 @@ the hoist in 6BM-B.
    
 #+END_CENTER
 
-* — Date: 23 November, 2015
+* November 23, 2015
 More of our panels have arrived
 
 | Wall pieces                               | Railing pieces                            |
@@ -482,7 +508,7 @@ More of our panels have arrived
    
 #+END_CENTER
 
-* — Date: 10 November, 2015
+* November 10, 2015
 
 Hints of things to come: This is the staircase to the 4BM-B roof, assembled yesterday.
 
@@ -490,7 +516,7 @@ Hints of things to come: This is the staircase to the 4BM-B roof, assembled yest
      [[file:./BMM/pix/2015-11-10/08.31.11.jpg][file:./BMM/pix/2015-11-10/sm_08.31.11.jpg]]
 
 
-* — Date: 9 November, 2015
+* November 9, 2015
 
 Construction begins on BMM.  Hutch panels have been delivered, hutch
 boundaries are marked in ink on the floors, and door slots have been
