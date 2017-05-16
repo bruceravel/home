@@ -19,6 +19,123 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* May 16  2017
+
+Today there has been some nice progress towards installation.  Much of
+it is not very photogenic, but a lot is getting done.
+
+In the first photo, Ian and Beau are lowering the mono off its wheels
+and onto its grouted plate.
+
+| The mono is back in its home.  Note DM1 just upstream | Travis is mostly done with cable pulling in the B hutch | Cables going upstream tothe XAS table     | Signal and SHV cables                     |
+| [[file:./BMM/pix/2017-05-16/10.41.49.jpg][file:./BMM/pix/2017-05-16/sm_10.41.49.jpg]]             | [[file:./BMM/pix/2017-05-16/10.48.46.jpg][file:./BMM/pix/2017-05-16/sm_10.48.46.jpg]]               | [[file:./BMM/pix/2017-05-16/10.48.54.jpg][file:./BMM/pix/2017-05-16/sm_10.48.54.jpg]] | [[file:./BMM/pix/2017-05-16/10.49.02.jpg][file:./BMM/pix/2017-05-16/sm_10.49.02.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+* May 15  2017
+
+** Diagnostic module #1
+
+After some leak checking and driving the various actuators, it seems
+as though DM1 survived its tumble last week.  Amazing!
+
+| DM1, installed in the A hutch             | The guts of the filter assembly actuators | The guts of the cooled fluorescent sc reen actuator |
+| [[file:./BMM/pix/2017-05-15/08.02.31.jpg][file:./BMM/pix/2017-05-15/sm_08.02.31.jpg]] | [[file:./BMM/pix/2017-05-15/08.02.46.jpg][file:./BMM/pix/2017-05-15/sm_08.02.46.jpg]] | [[file:./BMM/pix/2017-05-15/08.02.57.jpg][file:./BMM/pix/2017-05-15/sm_08.02.57.jpg]]           |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Bremsstrahlung shield
+
+The Bremsstrahlung shield stand is the next component after the
+monochromator.  Before it was picked up from the floor after last
+week's delivery accident, the shielding parts were removed from the
+stand.  What you see below is the shielding, sitting on a pellet jack,
+waiting from installation.
+
+A new problem crops up.  Notice below that the pink beam stop (the
+copper piece with the hole for the beam to pass through) is offset
+from the center of its flange.  The flange was welded in place rotated
+by 180 degrees.  The radiation safety bits are in the correct
+location, but the flange is offset in the wrong direction.  This means
+that additional strain will be placed on the bellows connecting this
+to the monochromator.
+
+The primary Bremsstrahlung shield is the thick, red-painted, lead
+block just below the beam pipe.  The purpose of this component is to
+stop the high-energy gas Bremsstrahlung originating in the storage
+ring.  Because we have an upward-deflecting mirror in the front-end,
+the pink synchrotron light enters the hutch /above/ the primary
+Bremsstrahlung.  Hence the primary Bremsstrahlung shield is /below/
+the X-ray beam path.
+
+The copper bit is the pink beam stop.  It's purpose is to stop the
+pink beam from t he front end mirror in the situation where the first
+monochromator crystal is, for some reason, removed from the beam.  It
+is water-cooled -- note the cooling line brazed into the copper and
+sticking out in the foreground.
+
+The big red mass of lead is secondary Bremsstrahlung shield #2.  The
+purpose of this is to catch Bremsstrahlung radiation which has
+scattered off of some component upstream, either in the A hutch or in
+the front end.  Its large area is necessary to catch the full possible
+fan of such a scattering event.
+
+| The pink beam stop                        | The primary Brem shield and secondary Bram shield #2 | The downstream exit of the Bremsstrahlung shield |
+| [[file:./BMM/pix/2017-05-15/11.29.42.jpg][file:./BMM/pix/2017-05-15/sm_11.29.42.jpg]] | [[file:./BMM/pix/2017-05-15/11.29.58.jpg][file:./BMM/pix/2017-05-15/sm_11.29.58.jpg]]            | [[file:./BMM/pix/2017-05-15/11.31.03.jpg][file:./BMM/pix/2017-05-15/sm_11.31.03.jpg]]        |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+* May 12  2017
+
+** Picking up the pieces
+
+On May 11, the first diagnostic module and the Bremsstrahlung shield
+stand were delivered, along with several crates of smaller kit.
+Unfortunately, the two large crates containing those components
+toppled over in the back of the delivery truck.  [[https://s3.amazonaws.com/bruce-ravel-site/Shipping.2017.05.11/index.html][Here is a photo
+journal]] of the work of the BNL riggers extracting that mess from the
+back of the delivery truck.
+
+Today, the riggers came back to pick up all the components.
+
+| The front side of the Brem crate showing the center of gravity | The Brem shielding, removed from its stand | The riggers begin lifting DM1             | Lifting ...                               | More lifting ...                          | Uh oh!  The base is sliding along the floor...  |
+| [[file:./BMM/pix/2017-05-12/11.12.43.jpg][file:./BMM/pix/2017-05-12/sm_11.12.43.jpg]]                      | [[file:./BMM/pix/2017-05-12/11.23.08.jpg][file:./BMM/pix/2017-05-12/sm_11.23.08.jpg]]  | [[file:./BMM/pix/2017-05-12/11.24.01.jpg][file:./BMM/pix/2017-05-12/sm_11.24.01.jpg]] | [[file:./BMM/pix/2017-05-12/11.24.24.jpg][file:./BMM/pix/2017-05-12/sm_11.24.24.jpg]] | [[file:./BMM/pix/2017-05-12/11.25.22.jpg][file:./BMM/pix/2017-05-12/sm_11.25.22.jpg]] | [[file:./BMM/pix/2017-05-12/11.26.44.jpg][file:./BMM/pix/2017-05-12/sm_11.26.44.jpg]]       |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+The solution to having DM1 slide along the floor was very clever.  The
+BNL riggers are awesome!
+
+| Use a second fork lift to lift from the other side | Up, up, up...                             | Getting there...                          | Almost up, pull, Jimmy, pull!             | And up!                                   | Whew!                                     |
+| [[file:./BMM/pix/2017-05-12/11.28.09.jpg][file:./BMM/pix/2017-05-12/sm_11.28.09.jpg]]          | [[file:./BMM/pix/2017-05-12/11.29.43.jpg][file:./BMM/pix/2017-05-12/sm_11.29.43.jpg]] | [[file:./BMM/pix/2017-05-12/11.30.27.jpg][file:./BMM/pix/2017-05-12/sm_11.30.27.jpg]] | [[file:./BMM/pix/2017-05-12/11.30.55.jpg][file:./BMM/pix/2017-05-12/sm_11.30.55.jpg]] | [[file:./BMM/pix/2017-05-12/11.31.51.jpg][file:./BMM/pix/2017-05-12/sm_11.31.51.jpg]] | [[file:./BMM/pix/2017-05-12/11.31.56.jpg][file:./BMM/pix/2017-05-12/sm_11.31.56.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+** Other activities
+
+The new mono plate allows the mono to be translated laterally between
+sets of Si(111) and Si(311) crystals.
+
+I love the photo of M3.  It looks like a real beamline!
+
+| Secondary Bremsstrahlung shield #1 (on DM1) | Lifting the new mono plate out of the crate | Laying the new plate on the granite plinth | Mirror M3, temporarily in place for cable fitting |
+| [[file:./BMM/pix/2017-05-12/11.38.12.jpg][file:./BMM/pix/2017-05-12/sm_11.38.12.jpg]]   | [[file:./BMM/pix/2017-05-12/14.11.28.jpg][file:./BMM/pix/2017-05-12/sm_14.11.28.jpg]]   | [[file:./BMM/pix/2017-05-12/14.16.35.jpg][file:./BMM/pix/2017-05-12/sm_14.16.35.jpg]]  | [[file:./BMM/pix/2017-05-12/08.54.37.jpg][file:./BMM/pix/2017-05-12/sm_08.54.37.jpg]]         |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+
 * May 10  2017
 
 ** Ends of the transport pipe
