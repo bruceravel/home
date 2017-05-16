@@ -34,6 +34,14 @@ and onto its grouted plate.
    
 #+END_CENTER
 
+| The filter assembly from DM1              | Filter assembly, up close                 | The Bremsstrahlung shield stand, installed |
+| [[file:./BMM/pix/2017-05-16/14.56.19.jpg][file:./BMM/pix/2017-05-16/sm_14.56.19.jpg]] | [[file:./BMM/pix/2017-05-16/14.57.12.jpg][file:./BMM/pix/2017-05-16/sm_14.57.12.jpg]] | [[file:./BMM/pix/2017-05-16/16.13.41.jpg][file:./BMM/pix/2017-05-16/sm_16.13.41.jpg]]  |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 * May 15  2017
 
 ** Diagnostic module #1
