@@ -19,6 +19,67 @@ seconds.  The soundtrack is a /Yakety Axe/, a Chet Atkins arrangement
 for steel guitar of Yakety Sax (which many know as the Benny Hill
 theme).  [[https://archive.org/details/ChetAtkins-YaketyAxe][This music]] is in the public domain.
 
+* May 19  2017
+
+Today's big event was the unpacking and assembling of the optic for
+the focusing mirror (M2).
+
+| The crate containing the optic and bender from SESO | M2 with the lid off, looking upstream     | M2 with the lid off, looking downstream   | The lid from M2, sitting on the floor     |
+| [[file:./BMM/pix/2017-05-19/10.24.17.jpg][file:./BMM/pix/2017-05-19/sm_10.24.17.jpg]]           | [[file:./BMM/pix/2017-05-19/10.24.30.jpg][file:./BMM/pix/2017-05-19/sm_10.24.30.jpg]] | [[file:./BMM/pix/2017-05-19/10.24.52.jpg][file:./BMM/pix/2017-05-19/sm_10.24.52.jpg]] | [[file:./BMM/pix/2017-05-19/10.25.10.jpg][file:./BMM/pix/2017-05-19/sm_10.25.10.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+The mono crystal cage was moved into position before work on M2 began.
+
+| Hoisting the crystal cage around M2       | Fitting the cage onto the mono Bragg axis |
+| [[file:./BMM/pix/2017-05-19/10.46.33.jpg][file:./BMM/pix/2017-05-19/sm_10.46.33.jpg]] | [[file:./BMM/pix/2017-05-19/10.47.19.jpg][file:./BMM/pix/2017-05-19/sm_10.47.19.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+Prepping the mounting platform for the bender and optic....
+
+| The mounting platform, removed from M2    | The actuators and kinematic mounts on M2  | Close-up of the downstream kinematic mounts | 
+| [[file:./BMM/pix/2017-05-19/10.58.02.jpg][file:./BMM/pix/2017-05-19/sm_10.58.02.jpg]] | [[file:./BMM/pix/2017-05-19/10.58.12.jpg][file:./BMM/pix/2017-05-19/sm_10.58.12.jpg]] | [[file:./BMM/pix/2017-05-19/11.04.25.jpg][file:./BMM/pix/2017-05-19/sm_11.04.25.jpg]]   |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+A few hours later, Beau had the bender assembled and the optic in
+place.  This is now ready for survey.
+
+| M2 bender and optic, looking downstream   | The downstream end of the bender          | The upstream end of the bender            | Looking upstream                          |
+| [[file:./BMM/pix/2017-05-19/17.01.25.jpg][file:./BMM/pix/2017-05-19/sm_17.01.25.jpg]] | [[file:./BMM/pix/2017-05-19/17.01.32.jpg][file:./BMM/pix/2017-05-19/sm_17.01.32.jpg]] | [[file:./BMM/pix/2017-05-19/17.02.02.jpg][file:./BMM/pix/2017-05-19/sm_17.02.02.jpg]] | [[file:./BMM/pix/2017-05-19/17.03.04.jpg][file:./BMM/pix/2017-05-19/sm_17.03.04.jpg]] |
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+     #+CAPTION: From downstream, peering up at the reflecting surface of M2.
+     [[file:./BMM/pix/2017-05-19/17.02.48.jpg][file:./BMM/pix/2017-05-19/sm_17.02.48.jpg]]
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
+* May 17  2017
+
+Today the second diagnostic module (DM2) and the focusing mirror (M2)
+were installed.
+
+| M2, looking upstream, DM1 in the background | Another view upstream, with the mono      | DM2                                       | Looking downstream at DM2 and M2          |
+| [[file:./BMM/pix/2017-05-17/16.12.07.jpg][file:./BMM/pix/2017-05-17/sm_16.12.07.jpg]]   | [[file:./BMM/pix/2017-05-17/16.12.14.jpg][file:./BMM/pix/2017-05-17/sm_16.12.14.jpg]] | [[file:./BMM/pix/2017-05-17/16.12.24.jpg][file:./BMM/pix/2017-05-17/sm_16.12.24.jpg]] | [[file:./BMM/pix/2017-05-17/16.16.45.jpg][file:./BMM/pix/2017-05-17/sm_16.16.45.jpg]] |
+
+
+#+BEGIN_CENTER
+   
+#+END_CENTER
+
 * May 16  2017
 
 Today there has been some nice progress towards installation.  Much of
